@@ -1,0 +1,1682 @@
+rnd1024.64@gmail.com
+EmailSinkAPI
+Suspicious mail has deleted *** You be confused as shit
+ *** 
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to fr@gmail.com because the address couldn't be found, or is unable to receive mail.
+
+Learn more here: https://support.google.com/mail/answer/6596
+
+The response was:
+
+The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/answer/6596
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Consumer: franklin, EB No.:e7678, Consumer ID:C5
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to rimas@khsc.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser k9-20020a170902c40900b001640e9f63a3sor1879260plk.96 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear mathan, your friend arun was depressed, so take immediate treatment
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to rimas@khsc.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser i64-20020a625443000000b0051bdbcbdbedsor3308361pfb.35 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear mathan, your friend arun was depressed, so take immediate treatment
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to rimas@khsc.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser lb10-20020a17090b4a4a00b001e323b74b03sor2318401pjb.38 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear mathan, your friend arun was depressed, so take immediate treatment
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to rimas@khsc.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser z1-20020aa791c1000000b005187d03830esor3274145pfa.52 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear mathan, your friend arun was depressed, so take immediate treatment
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to rimas@khsc.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser f17-20020a637551000000b003f9f00f27b2sor3119588pgn.48 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear mathan, your friend arun was depressed, so take immediate treatment
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to ezhil@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser 20-20020aa79154000000b00518351c141asor3418294pfi.19 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear kishore, Your Staff ID: f11 ,Password: muttapaya
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to raj@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser j6-20020a170902758600b00164059a7ca9sor2833138pll.56 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Consumer: kishore, EB No.:w2376, Consumer ID:C8
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to kumar@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser r14-20020a17090a690e00b001ec8cb72594sor198586pjj.41 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Consumer: kumar, EB No.:1234, Consumer ID:C6
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to surya@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser b13-20020a170902d88d00b0016306ece88asor3551025plz.136 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear surya, Your Staff ID: ss5 ,Password: 1234
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to surya@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser 192-20020a6301c9000000b0040c723a6d92sor1587485pgb.16 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear surya, Your Staff ID: ss5 ,Password: 1234
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to vj@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser t10-20020a1709028c8a00b00165638a93bcsor3492110plo.143 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear vijay, Your Staff ID: ss5 ,Password: 1234
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to abi@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser bg9-20020a056a02010900b003fe0d7ed680sor7785465pgb.15 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Consumer: Karan, EB No.:C%, Consumer ID:C5
+
+-- 
+This email has been checked for viruses by Avast antivirus software.
+https://www.avast.com/antivirus
+
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to vj@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser l18-20020a170903005200b001678c33eb9asor3919149pla.109 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear vijay, Your Staff ID: staff5 ,Password: 1234
+
+-- 
+This email has been checked for viruses by Avast antivirus software.
+https://www.avast.com/antivirus
+
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to vj@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser x30-20020a63485e000000b003fb238f9b66sor7663079pgk.42 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear vijay, Your Staff ID: staff5 ,Password: 1234
+
+-- 
+This email has been checked for viruses by Avast antivirus software.
+https://www.avast.com/antivirus
+
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to karan@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser f8-20020a056a001ac800b005107d6f70bfsor8630983pfv.16 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Consumer: jlk, EB No.:rt, Consumer ID:C6
+
+-- 
+This email has been checked for viruses by Avast antivirus software.
+https://www.avast.com/antivirus
+
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to vsdg@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser bc6-20020a170902930600b0016a0c4f8fdbsor5157149plb.119 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Consumer: karan, EB No.:f1, Consumer ID:C7
+
+-- 
+This email has been checked for viruses by Avast antivirus software.
+https://www.avast.com/antivirus
+
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to ikjnfdkj@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser h14-20020a170902f7ce00b00163e1be89b0sor4292909plw.155 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Consumer: gobi, EB No.:rt, Consumer ID:C10
+
+-- 
+This email has been checked for viruses by Avast antivirus software.
+https://www.avast.com/antivirus
+
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to sethumahesh58@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser q145-20020a632a97000000b0040cf042817esor2430796pgq.80 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear sethu, Your Staff ID: ss5 ,Password: 1234
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to sethumahesh001@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser b13-20020a170902d88d00b0016306ece88asor7250246plz.136 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear sethu, Your Staff ID: ss7 ,Password: 1234
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to sethumahesh001@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser p21-20020a63f455000000b003fc520de220sor8115622pgk.68 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear nishu, Your Staff ID: ss7 ,Password: 1234
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to sethumahesh001@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser w18-20020a170902d71200b0015e8685079csor7602177ply.181 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear nishu, Your Staff ID: ss7 ,Password: 1234
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Recipient inbox full **
+
+Your message couldn't be delivered to vijay@gmail.com. Their inbox is full or it's receiving too much mail at the moment.
+
+Learn more here: https://support.google.com/mail/?p=OverQuotaPerm
+
+The response was:
+
+552 5.2.2 The email account that you tried to reach is over quota and inactive. Please direct the recipient to https://support.google.com/mail/?p=OverQuotaPerm t1-20020a170902e84100b0015e5bf3dbadsor7331059plg.170 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear vijay, Your Staff ID: ss7 ,Password: 1234
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to gomsk@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser b16-20020a621b10000000b0052ad1ef7d0csor7555016pfb.5 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Consumer: C5, EB No.:2250, Consumer ID:C5
+
+-- 
+This email has been checked for viruses by AVG.
+https://www.avg.com
+
+**********
+Google tips and updates <googlecommunityteam-noreply@google.com>
+Rnd, here are some great ways to celebrate 75 years of Independent India
+A few tips to help you celebrate Independence Day!
+
+We've rounded up our best tips for you to celebrate this special holiday  
+with friends and family. Enjoy a collection of popular songs, explore top  
+movie picks and learn more about India’s rich cultural history.
+
+Celebrate the voices of India with these popular songs
+
+Looking for a great soundtrack to complement the festive mood? Here’s a  
+collection of popular tracks from prominent Indian artists.
+
+Listen to the playlist  
+<https://notifications.google.com/g/p/APNL1Ti8Fh_sIoWbx3Fxk8Ui2NTwjCLt2fn2RLVreYbbGhA7C849vR2qpvgIXnMdDQZk_Y-uFQUESrbMiWZMarwLfigYeeYSWUWIjS2vwdAS0us0aTIr4G54xrsVxwmS46cVbhwfK9UwOvhVe5dmaKYo0UEUFWwYQOprzabH6mRtWjq7z2Wr9vZjQzoidx6nXTonrun-ctvE7I25NUm2VfnHCHzZZaoJu_tEy0EAtW1Ndt-op982am4ITTqf4an7NA9Zwxs7AzV0aud89EJ8IHSfi2pPY46zjYr1TS0mAWQ7bm2hTsQVbkkyEJuhM9IoOGk>
+
+Listen to voices of India with this great playlist.  
+<https://notifications.google.com/g/p/APNL1TgGI-pAxSiIlMgffqRyjWUb3yIrT33NjEJGKBsuOEeyPE91YZ1y7accPbRlNPHMXfYr46l6aHkWI5jcpKF0AL0cOvMKciXfMTySict0G_WIBbI9aJDM1Bz24oZLOFVw8NSQL9_nwPPQiH3jhNJFRUfnSFKYrfTGFCcUo4EsOrxOKD5tD8g5ODLGk8z99AoJCvJmq7lmaSdF2bVg7YzaB4Ao1zVALVTefmc0fMg_ADrLpKM6j4GLtAymBkd53gyClxumWeVgKZAKcN1bIbct9TO77hdesiyvh_lLXfD7qimQqH9pqnTehYtQkrCTEw>
+
+Discover India’s most celebrated movies and shows using Search.  
+<https://notifications.google.com/g/p/APNL1Ti-OXOCeNXCkA-g6XBhi5wZUDvtxZ4wj8wXyHNPk6Xnu7LqCIxnV1InBR-dam47vCtS67DaiQe08YJwvQcO9WU15ztBURlM_APjbK_HS93zHdjPz1AuAgf2wYkVa9FQTtw4_tjBFPvvEhwrgotppMBVdXlsrdkaUO4Wt3y2hNg-upFT3pQiDEtSUot_oaAnrFGrrKYS_yffymO5gKu8cta4Sa3DqdzXupr17GoK7q3IxWdyGUXoQLT5iUU5LgLSzJQJ2jfziy-3_y8mD7L3vIQUOi-ypU9tnCRvbMW-knBHft-Llv4mQ4c-otPDwjOl71W3c8n9dCW2DWE-p-ESH86MbHiK8mKgT0dZdYewiHEYFTHg2e_N6PyYuyES4aYtbJpN5Qcu4571Zqoxe9laYR5t0Qe7FuN3qVGLhIwe1Stfwtpg692npRft3xF_4AecwFy6Zcu5UzBE4lyGI345Ynus9wyxDERabqO330bFCacwvieO8JsrQHrwXnI_EBe_E_8vaRwg5lq9CJH4VamMSwTtGpciA-pBzlO8FkyIqBB9kHvSjObsaOt7p--WbZNS1K_9ZhPfaPT6hiC6INOFSJkhkx4PWQruMMnsWgsmYbRUon4R3XZiE4WZSNCSk_vKYYUi7ujIv5--_Y87xeMEHZ5HTNr3lzWPL0fNIvj9XQvL7azPoheHvEJc0kb2XGDJzeWtlIZLPQh5y1nvj7lBGLgNMH5Qdttm7yJIMWLTLV8dB4NltJUiLHh7o__-x_E_EJqQfsU9kt5jecZLcCXbkT5F8HvQKEr1qDLNjXNNPmy_aji14bRoG6tsB3dYBquwVNdtEUUz58L5d84-XC_LQhdyQnC5-ZhMwSh650VM2uwcWM2YrpLXp89D8YaYk1_if7IgvP-oiJ9Q0wwTHM-573xtTPHwn0as_wlA_q9NHWlDPqO2OcJOGHc2IQ05QrzuuQKXsEAPzIWGtM02IVM3x6Hz8sIBGXQr0SZVf_-RXjiCH2ye34Ivb3m6eTaRvU4VL82LWffsVKUU1a6hFw4cQl00o6FMYGP0ZB_yQuM73HNvhX6oB2HojYRqWD5eMaq_2sVy3fBQTvLdQH2oAX2Qx-xPqpwONcx1qzfrc1gr3aO9ZFPfXE1Fych-UMOICJXZY4mMEtysBsIny7r5PvmBcvXXdRbuUk2t8kJQMIbedbas2D1NqwZ3UV_VMBAAkg7niBhmM9bzB0UF1Q4W7PzIhSNdapQ6AFei609PiTjll1b3NCTnIvYtM2gL-vIKcpCfwSE-nMlEWSqeiHEUQ19AsGQDxiFNvreyxkpW6G0QEkxXInNxh4InnVqsH_HbfXFLKJxi6iYGSV6N8Htc94exsYPLzfN5zjEMgj-GI8wUrZttKOfX9kAaOZ7rvbjaOEMcGNtXgvMJgab2HvdpITHEncTXug_zihCiUyQvuwJ9KnbEjzsTUlBWKJwi8FWwYFfg55Ecc7OL469dd37Mxka3DGsnAwnq8Npb99_FwkZ4QajB1kgUjuKdNv6TYwm1DiZrurxTwbiQamzPqW5VGU4CgMJTjLBUQkDNN22wAArn0zR-mR_Pb25LWTl8_S0nCbEk-E_Ensj1l8mQHgKz_9FNmn9r>
+
+Explore India’s most celebrated movies and TV shows
+
+Here’s our tip: Search for 'Indian films to watch on Independence Day' and  
+explore fantastic entertainment options to enjoy with your loved ones on  
+this special occasion.
+
+Explore Indian films  
+<https://notifications.google.com/g/p/APNL1Tipd2WcNm7CemekOXW1iyDB1CI5_5eHkUOyP4ziTluTG-l-8NidZftdGGxUxg0FD1u1_-FMr9Ts6B4KD7t7KG7Sj54JYti6JYghMqdmgSKJYPpxuJ2mcAM-Ba905iHG9x0ePCBFLQp_eWw5nQd0xna48hfCksqTQaz8Ta01IS6dV98jKX_-nvow333c0gmXBj54qnpsS6FK3GTzJzQ2HRZdM_52kyW7BzBQTDg-QCt1zfJXzNf4XIQoYhZlPQXa9lTCnShDLQUfYjLC3-3KGVbYSlk5Zpu6jPuSF1kfP7RIxGPPB8STMTo6UDg1IFxDrT1kxBitriLKsWZPl7kHSaFXnit11LFFh49MgJ5uNJ6p6-7RHBxEA9TcBqZv4A1sHO4imqitUfrWM14cv6Frd0U4v1wGJYmm-5Wzhgt9-kvbIZUyitnc5VDG0PN5IwrzltgPX9cEIXi6KossLBPBgYdGf3KW6DMEOIY1le9IJWi5GwbCU393_iaJm5p0Ndg7SF-3RUCGty5NsMPOGC4YVjrRKNJMe0MODxaI4s8hfAvyBFc-9WH_qPt2jvUTzZ7fnc1pHvuRlyuskFHvtPGADFt9JpdgWhyadHuMbyyjRCxVnqkfXQ1OtMl4RrXhXLLOxrQD7Jykzy_XQMgg9D2U6t_kDobFtx5t04ux1JpMt4bRM3G7bxuVerSldTwBAKl4C48huZbzDo7EntyGTAVNFMUB4naeofit7zRvj0dDZ3kIi2TYcn1KpR2y9Gvbr9ZJmPPIsBQX19R5HwCe38hqY7q_FM8YIpz2LJGafjuBdSQFV4wEY9uaEsBQfMIFEyvdlnjZeEGRQ08XVtjtWII49XyBflfxFRSs1XYV4PwcJSqMqM7T3h8HidFaRyBIcVvN09j1_B-kO3b7f9LtJ6eYpzaw4lppx1VxzCgE513DxMHjEBF2_3pLeeApDQ5gU-A6v45uQKWkI-iuuDAb4HL6oApC_oO4ulUI39-0AoEJKUYNq1xMU2oy-JPzpuZpKk-n4T74es5sFoMI6dCe1mjaaZp87sQowLrkrwijhVWr7Of5c-kj_Er3FUMFZL1n7hkDHIzmibAkjg6U4fYK9L7bFw3gydjr5tL-rjtPLRTZ3Rr2LUX_zHVkF87VL9SvCp9qgr7lv5y3dGdLMbrBk_Iocj3MSftOpxArUBmqlwkSw0uMTl_BuOmeUFVvQHQrOucvBrFebeHKBN_sO7nXdaM3YPwOJXKb2W1bpOc6hQTAyNC6qksPQey-goWzJJF01YY_QwQUIIjiBw5f72X9Z_MSV8shPrVg1iuA440DoyNdweys2peLDmxSR4xJyZsjnP_G0uAFB8owJTxClaNqBYfcGUFnxvZk8U6RqsWfF7EYfzqcjkgn0zRupiCvvvqY1KN44isu5qE_yrc3PCYIkh6PNL5EvJuD8WKL5z_qUezf_OZg_diM0QKTmyPgMKp2kP27ux9yMqLWxMAyy3kIsBTM-bqdOxph6ka8dA3REUkkdgVaNIfL9H4z7_ds0I040vF04B5InRJ6DoVcwfasJSMRWCbTKHUUkW3HKGkCNPDUFFLcIATgxOigYnYZKLvUnhgIVOAtRiFKV51c_T3vrlor0iwajg>
+
+Immerse yourself in the wonders of India
+
+Take a journey through the history of India. From 360° tours of museums and  
+heritage sites to profiles on iconic Indian artists: explore the culture,  
+traditions and heritage of our incredible country with Google Arts &  
+Culture.
+
+Explore now  
+<https://notifications.google.com/g/p/APNL1TjmxPC5E9bCePFZTGk6CkvCQYS5fInuDD5E7PPkj8k7X-Fdv_s7iAwVerMGmqZ1_yND3eQOoM7qhKERyw6FrzQKPqHhp3r0sNfZyv2R30AQXTfHd3SuDSalSSP_lHyxfLuiZJCn4Gz7wYL7bsjzOuuvMq9T10vmyAWmQEJlnCkcyxQt07nFqUYPtP4SoEnMBuTot5N7LIHnpGCINZrT5XWRaLsiPMTHUwjeNrE1Jv9qNIbQVDw0xocnj-rI3KFFoob-dW12SBfe1L8>
+
+Explore the cultural wonders of India.  
+<https://notifications.google.com/g/p/APNL1TgnJU_H-ArfmVyhBdRhQy0CmyTjCIxU1y9tYDhQhBOB7qI5bJkxrHh1H_g_u1gMXA1XEcT5JyclDpmcnoBnzSMQ6JIpZeOJt90VYXqgu7ADBu3nBxMzxdvVDS9kcGBvazO4MdGyWJZOv7AB2sqvslaJgsIYyCajuf7CodtJyavHtoN6NMQjZIpTk63-7zi48GI_BGcfSAMuiRE2Aa7ih7sr__RJVUYbaoPSEYUQqzdydwiMt3lznghdMklaqsUg4L6VdYIWQbizpA>
+
+Keep your private information safe and secure
+
+Strengthen your passwords and the security of your Google Account with our  
+two-minute Security Check-Up  
+<https://notifications.google.com/g/p/APNL1TgXAv5lW1gZgG_asF0zU7fdirieN-5OlDhRTVeYAUB3l0tdUEGVJNNfrrrDldjy2_y8Whfsq3V8m1Sq3aEsDelRM-4KfjdJ-wI1wXfLV_0DC18GPsU00qm5XWOnMXKBc9Dn9XK--MjXHrjbphyoXD4E4oKV_diKOPT79OQOgUlXRppv-xr_nCwczTdsu1K6u8U7ewv4dwAXW95swZ7GAMcatMyfeaKj8yxixdJ06gU0WxA>.
+
+Find answers
+
+Visit our Help Centres  
+<https://notifications.google.com/g/p/APNL1TinlFu2NLpanvEViGOdjX4EdeUFEAGxCJgezcnfgrg_u2VQrPJsZGtb_xM_GGIUqU1hS1VzMEkKZenDoBdRw2MCMfNG1iXt0QVhV4sB-Vv8OziNm1zHzLncrjh09ar4yFlmuNYdC17ikwDGus-_9E8zII2Oj8bTQDcRSrUCgxO6S9FkK07VsrLWdvHXs3Hmj8E-8UrmNuYnbOiieu_3mA>  
+to learn about our products and your Google Account.
+
+About Google
+
+Visit About Google  
+<https://notifications.google.com/g/p/APNL1TjKkJnXND7KQCJLmlqakHZmGkDtDiiEYsbJFLdgaqeP-kSAhy0jCqoDFrRhXWdu48iMfgCCiB0FLthDOnWlc2qfFa6Z3aBeLMLmGcJbEwy_qnrq7JnKzrGB61128sJeUwKph1_AAZX2fgVlrYvjeTZmzE4T5gxwmQnmt7UVBKkp3wJy3BqPGaJEyzhEMq31sYc>  
+to get the latest news and updates.
+
+Help make our products even better
+
+Sign up  
+<https://notifications.google.com/g/p/APNL1TiFDY7UvFldCFv32QQfkQbKXD8oZgyK-YotHX_V8C7P98ZLVFLwnmiRZkrIrnpw_wz64fWwtekopRHocZnkBdzjiQc2kXgbME8fic4lwjyJb0SGzYvEuhjw0_J4XmEHkFe8xyY7RoQpEiqDmu4tAVsZVCY-sN6lgiMWk3njzcKjGMec_2HYeo_l6PLg7-pxhczpO-pebm369HzWqaM_tnhjlQowZE42FkoovrG7POfO-W9ctVx9m2G-stkRCNnvCfg3Sw5-Pyxct2Ak-pR0lIyM2a9L4TZLVew5Iln5DaoIQi83Rpt5W3qT5Ybpjg>  
+for the chance to participate in Google's user research studies.
+
+Was this email helpful?
+
+Happy  
+<https://notifications.google.com/g/p/APNL1TjRCg-vPudzWEnobot9mjXQt5zMkW2b-x80azLm4cPG17ZvXHYIBM5SxBPlt6wPLV3UX4Ftwy3TASYnHyWs9OBd4jpuU2ZV3s1tfxoeRC50XdA5EUrhQmFOa8MbQ5K8IL5AVKgpPh5xzgGF12rbcrPZs7Dok3W4swPvxxVKOMHXgvj4Zx6bXKHb07F_RyZh5_4kGyDlm455>
+
+Neutral  
+<https://notifications.google.com/g/p/APNL1TgtKfXWh7Sjhy3HoHZOm1SZlcM5FT-aW4WmMO1oCYnBlx2aimLy9PWJmcdfF_alaNr2TIpQF9IRlPfBlv4H4uCtNpTfiKPNF8BiW3ZZuJ3arDWPJS8RlTgavcLjP7N3naUYL9i1D2qG2425-H3vAK-WRFj5mMFUIqimDYW8WhvROeVibmT7-eiN3Y5t4zc1VEGBfHcvAU16IsI>
+
+Sad  
+<https://notifications.google.com/g/p/APNL1TjbxqejIQ47STVSzqaQoBOJuF3zw1TbXrh1w_vjJuHwlp59ZqC0ZytoKBo9lSfovyib568vkRDkNSVgX2NdozZQx9TqaSXBryPYhkKS2Xs1m8GevtaCpTZbQZZ8p2EXTrVmn7TI_XSfSxoHJ9zsXTe5_7faoSQpmjJ4Tl5p-pm7gTnhrAKNAbTqFlmk4VmT7_JHGWRtJQ>
+
+We'd love to hear from you!
+
+Help us improve by sharing your feedback in this short survey  
+<https://notifications.google.com/g/p/APNL1TgXJx06mR69xJlZkHL70480FgoIUeTR-nRrjdEv_1XzJfCQlLeqL9UhpmhABcip0FxAvrRvopWDmIcsYi3xF90z-nNQR1N0Lq19UgyNSh63kWh9hFkQqeS7Vl5uzZL-0nWfgwtBLI-LuaheEMG0kK47tg2frsr4EtcvG6BV7T261YoDxm56HTBWCWKBGRdvcG6EeI8>.
+
+© 2022 Google LLC 1600 Amphitheatre Parkway, Mountain View, CA 94043
+
+This email can't receive replies. This email was sent to  
+rnd1024.64@gmail.com <rnd1024.64@gmail.com> because you signed up to  
+receive personalised tips, news and recommendations from Google. If you do  
+not wish to receive Google tips and updates in the future, please  
+unsubscribe. Unsubscribing will not affect messages that you may receive  
+from other Google services.
+
+Unsubscribe  
+<https://notifications.google.com/g/p/APNL1TjWkrWGgzLE2aPKkuKmkopTZryHAbY8GY2wodkjOjQV1UmEFfaUPrpSBej5mrg0crXHaV2qhtELqCDbeNqsASVXku9zdgho8_zFy1AEanhLv7egqDIjRe9T7QEYsyIwSpZHrUfkcxpXpVCoh1sfVgKlInVB4wfAdACtjP2U7u5WtNef-fLCDnEVEYpDWKcU_p6G3lTMEUpGCTBNkJkAgdIKfxkY8NCVddBiKxcg7kXU_NyxyfmxvQg4siVt2LnspmaKxM2lxBzuuF8LA8t_k7T9fjTkWUdyfaLIhb6K6VLso86bNQ1lxQ>  
+| Manage preferences  
+<https://notifications.google.com/g/p/APNL1TgzWkuTAeB7nFRm8X0X_WL0YlOKungem3xK88JEQ3b5AeAxv_pCta-s7AtQ47iAdh4rjaWLHcADNSmt5qPAXunDnPm8iOZJFAy5qVDJFsVrc5ZKARnLVwFfYSnImlWxt33deDXOXqFGGWwkb6hml37XPrKcvh-H_o_cmL1J2pZlMXzLY3bsY68hWM1M53VdGXYVQkqDGeCUWdWzQJa-a3MdurqfRWIIMb228EwM3gbzLYUHUQEj9fgdW6SfRk_CPY8HB2Klfuwfr_wGW-YTyE2y6QWztbwagGkHIeyrGf2dL30YweDRm5E-tb4-92KUf6OgfnI>
+
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to taj@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser y7-20020a17090a474700b00219345f07dbsor4589182pjg.22 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Consumer: mahesh, EB No.:7373, Consumer ID:C5
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Recipient inbox full **
+
+Your message couldn't be delivered to arun@gmail.com. Their inbox is full or it's receiving too much mail at the moment.
+
+Learn more here: https://support.google.com/mail/?p=OverQuotaPerm
+
+The response was:
+
+552 5.2.2 The email account that you tried to reach is over quota and inactive. Please direct the recipient to https://support.google.com/mail/?p=OverQuotaPerm c4-20020a170902d90400b00189ed71d590sor2006604plz.117 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear arun, Your Staff ID: ss5 ,Password: 1234
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to saran@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser z26-20020a056a001d9a00b0056d097ca813sor1873359pfw.19 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear Saran, Your Staff ID: SS11 ,Password: 1234
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to saran@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser u2-20020a170902e80200b00189d8fb466dsor1930319plg.69 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Dear Saran, Your Staff ID: SS11 ,Password: 1234
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to taj@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser h6-20020a170902eec600b00188baa713c5sor1940713plb.94 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Consumer: Taj, EB No.:7454, Consumer ID:C5
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+
+** Address not found **
+
+Your message wasn't delivered to surya@gmail.com because the address couldn't be found or is unable to receive email.
+
+Learn more here: https://support.google.com/mail/?p=NoSuchUser
+
+The response was:
+
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser e10-20020a170902f10a00b00188b42113f5sor1953811plb.184 - gsmtp
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+**********
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Delivery Status Notification (Failure)
+Consumer: Surya, EB No.:6599, Consumer ID:C6
+**********
+Google <no-reply@accounts.google.com>
+Critical security alert
+[image: Google]
+We’ll send a link to sign in to your account in 24 hours
+
+
+rnd1024.64@gmail.com
+
+Google received a request to recover your account *rnd1024.64@gmail.com*.
+If you didn’t make this request, you can cancel it.
+
+
+
+Cancel request
+<https://accounts.google.com/signin/challenge/marl/sgo?marl=ABHrDGTaUO8V8SELLh0M9Rx9IZAoW-hKgK2klq6eHVET_vZNzqiQpwE_pX0_Qb1DoswMgwOkUpNONXU7C8JHGRVPZgp5ap1zZzY-IuWOz2RnWfyTI0aEaCI1zEvW920fvD-iqalLhFMdvS59Oi57NDy_G92doBax2w&hl=en-GB>
+<https://accounts.google.com/signin/challenge/marl/sgo?marl=ABHrDGTaUO8V8SELLh0M9Rx9IZAoW-hKgK2klq6eHVET_vZNzqiQpwE_pX0_Qb1DoswMgwOkUpNONXU7C8JHGRVPZgp5ap1zZzY-IuWOz2RnWfyTI0aEaCI1zEvW920fvD-iqalLhFMdvS59Oi57NDy_G92doBax2w&hl=en-GB>
+
+In *24 hours*, we’ll email *sanjeevi@oculusit.in* with a link to sign in to
+your account.
+
+You can check the status
+<https://accounts.google.com/signin/challenge/marl/sgo?marl=ABHrDGTaUO8V8SELLh0M9Rx9IZAoW-hKgK2klq6eHVET_vZNzqiQpwE_pX0_Qb1DoswMgwOkUpNONXU7C8JHGRVPZgp5ap1zZzY-IuWOz2RnWfyTI0aEaCI1zEvW920fvD-iqalLhFMdvS59Oi57NDy_G92doBax2w&hl=en-GB>
+of your request at any time.
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2022 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+**********
+PHP Classes Award <list-award@phpclasses.org>
+[PHP Classes] Help India win the PHP Innovation Award Championship of 2022
+Sanju you are getting this message as free service for being a user of the
+PHP Classes site to which you registered voluntarily using the email
+address rndittrichy@gmail.com.
+
+To unsubscribe see the instructions at the bottom of this message.
+___________________________________________________________________________
+
+Contents
+--------
+
+### What is PHP Innovation Award Championship?
+
+### How you can help India to win the Championship of 2022?
+
+### Current Ranking of the PHP Innovation Award of 2022 by Country
+
+### Ranking of the authors from India
+
+What is PHP Innovation Award Championship?
+------------------------------------------
+
+It is an initiative to distinguish the country of the authors that submit
+more innovative PHP packages during the current year.
+
+*All innovative authors of the country that wins this year will earn a
+special prize that is PHP elePHPant plush toy personalized with their
+names.*
+
+Now you can also win a Big elePHPant as one of the possible prizes you can
+win every month. Check the complete list of prizes here: **[List of
+prizes](https://www.phpclasses.org/award/innovation/#sponsors-and-prizes)**
+
+![Image of the winner the elePHPant
+prize](https://files.phpclasses.org/graphics/phpclasses/ElePHPants-20-480x360.jpg)
+
+
+
+How you can help India to win the Championship of 2022?
+-------------------------------------------------------
+
+You can help by doing the following:
+
+
+### 1. Submit More Innovative PHP Packages
+
+1. If you submit innovative packages you will be nominated to win the month
+innovation award.
+
+2. The site users will vote and all nominees will earn points depending on
+their position of the month ranking.
+
+3. The innovation points that you earn each month will be added to your
+country score.
+
+4. The country that accumulates more points throughout the year will be the
+Championship Winner of the year.
+
+#### [Submit inovative packages
+now](https://www.phpclasses.org/contribute.html)
+
+
+### 2. Encourage Your Country Friends to Submit More Innovation Packages
+
+The more friends you encourage to submit innovative packages, the greater
+are the chances of your country gathering more points, and eventually win
+the Innovation Championship this year.
+
+
+### 3. Share this Information with Your Country Friends
+
+Go to this page and use the buttons to share this information on the social
+networks to tell your friends to also help asking their friends to submit
+innovative pages.
+
+#### [Share this page
+now](https://www.phpclasses.org/award_winner_country.html?country=in)
+
+
+Current Ranking of the PHP Innovation Award of 2022 by Country
+--------------------------------------------------------------
+
+So far India is in position number 6 with 21 points earned from having
+nominated 2 innovative packages.
+
+Submit more innovative packages to increase the chances of India to win the
+championship of 2022.
+
+
+        +------+--------------------+----------+--------+---------+
+        | Rank |      Country       | Packages | Points | Authors |
+        +------+--------------------+----------+--------+---------+
+        |  1   | Nigeria            |    13    |  117   |    5    |
+        +------+--------------------+----------+--------+---------+
+        |  2   | Russian Federation |    7     |   62   |    5    |
+        +------+--------------------+----------+--------+---------+
+        |  3   | Portugal           |    3     |   43   |    2    |
+        +------+--------------------+----------+--------+---------+
+        |  4   | Turkey             |    4     |   40   |    2    |
+        +------+--------------------+----------+--------+---------+
+        |  5   | France             |    2     |   23   |    2    |
+        +------+--------------------+----------+--------+---------+
+        |  6   | India              |    2     |   21   |    2    |
+        +------+--------------------+----------+--------+---------+
+        |  7   | Canada             |    2     |   19   |    2    |
+        +------+--------------------+----------+--------+---------+
+        |  8   | Germany            |    3     |   18   |    3    |
+        +------+--------------------+----------+--------+---------+
+        |  "   | Egypt              |    2     |   18   |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  10  | Bangladesh         |    2     |   17   |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  11  | Italy              |    1     |   15   |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  12  | United States      |    1     |   14   |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  13  | Kenya              |    1     |   13   |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  "   | Morocco            |    1     |   13   |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  "   | Ukraine            |    1     |   13   |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  "   | The Netherlands    |    1     |   13   |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  17  | Peru               |    1     |   11   |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  "   | Chile              |    1     |   11   |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  19  | Belgium            |    1     |   10   |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  "   | Viet Nam           |    1     |   10   |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  "   | Belarus            |    1     |   10   |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  "   | Georgia            |    1     |   10   |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  23  | United Kingdom     |    1     |   8    |    1    |
+        +------+--------------------+----------+--------+---------+
+        |  "   | Hong Kong          |    1     |   8    |    1    |
+        +------+--------------------+----------+--------+---------+
+
+
+Ranking of the authors from India
+---------------------------------
+
+                     +------+--------------+--------+
+                     | Rank |    Author    | Points |
+                     +------+--------------+--------+
+                     |  21  | Ganesh Kandu |   11   |
+                     +------+--------------+--------+
+                     |  25  | Kushal Pogul |   10   |
+                     +------+--------------+--------+
+
+___________________________________________________________________________
+
+{TextPreferredName}, if you are not interested in receiving any more
+messages like this one, go to the unsubscribe page .
+
+https://www.phpclasses.org/unsub/n/sanju2021/u/award/cc/aa69ef/
+
+**********
+PHP Classes Announcements <list-announcements@phpclasses.org>
+[PHP Classes] How to Find Slow Requests Using a PHP Performance Monitoring Tool with Laravel or Symfony Applications
+Sanju you are getting this message as free service for being a user of the
+PHP Classes site to which you registered voluntarily using the email
+address rndittrichy@gmail.com. To unsubscribe see the instructions at the
+bottom of this message.
+___________________________________________________________________________
+
+*A new post was published in PHP Classes blog*
+
+*How to Find Slow Requests Using a PHP Performance Monitoring Tool with
+Laravel or Symfony Applications*
+
+Sanju the summary is: If you have a site and you notice that it is slow,
+that is an issue that may affect the user experience, and users may leave
+the site for that reason.
+
+To solve the slowness problem, first, you need to find the causes that make
+the site slow before you can start fixing the performance issues.
+
+Read this short article to learn more about how to find and fix slow
+requests served in your Laravel or Symfony applications using the Scout APM
+tool for free.
+___________________________________________________________________________
+
+View the complete article:
+https://www.phpclasses.org/blog/post/1097.html
+
+Sanju read the whole message and post your comments in the PHP Classes blog
+page.
+___________________________________________________________________________
+
+PHP Classes site tip of the day:
+
+o *Win Prizes and Recognition in the PHP Innovation Award*
+
+  This award is an initiative meant to provide recognition to the authors
+that contribute with the most innovating classes.
+  
+  Submit innovative classes to be nominated in the beginning of next month
+like these nominees of last month that appear on the vote page.
+  
+  In the following month, the authors of the most voted classes may win
+prizes provided by the following sponsors: APILayer, Nomad PHP,
+IP2Location, PHPClasses, Mailtrap, CodeLobster Software, SourceGuardian,
+IonCube, O'Reilly, PHP Defender, PHP Architect, IBANAPI.
+  https://www.phpclasses.org/winners/
+
+___________________________________________________________________________
+
+{TextPreferredName}, if you are not interested in receiving any more
+messages like this one, go to the unsubscribe page .
+
+https://www.phpclasses.org/unsub/n/sanju2021/u/announcements/cc/3610bc/
+**********
+Dribbble <no-reply@n.dribbble.com>
+=?UTF-8?q?We=E2=80=99ve_updated_our_Privacy_Policy?=
+Dribbble logo ( http://email.n.dribbble.com/c/eJydUk2TojAU_DV4sbBCwueBgyM6W7rr6O467o0K5ClxgFAhMDq_fgPjKF6HoqhX_Tr9XjdJaVFRfiwN50lCyisOpYqZKCjXUBQedZFPUlGM0jsROjCum-QEqepYezDm2PCREQQtjJuKUQVsLBo53kje0vQy3oicp5cRC5mLPewO1VoqOVVc9PNmolRS5CMeYoQxcpGPLOJgd4I8AsS2AkT84GDZnmGjcsIkT5Ikh37BLAwsxHzL9_GBpHZwQNg7JDZAAA7Rj01HMpQl40pJnmYXrXB3l4eZUlVtkKmBF_odKhtk0agiTvVqOhyDRBlQBtLMxVEY2O16tfaagm61IEVcwnudg1Ig62u_AMYbLRT10V3BWwYkin4_GdjBs-6Drpl91n1ufbnrY72e1dqd3Po2SeP9bM40PHSJnYHPL5b20mreryCf__TM7app2Kk4Fx_73b8V3rNLsDyd47_vzV60MN2s589uNCf2brX58bwpstl54ca8yV6T5Wrr_DmbW16t_GkbZS_rjzp5WdLdWb35SzN72-n5JBr-7u9cm8Hxr7IzqiUCD3vo4TpVUnT6cUkL6BhaqqDyQUNdqr51T--hC0WV601uCiMVdqGZn7NMCzmei_AV_Q9wdBV1 )
+
+Hello!
+
+Dribbble here with a friendly note that we have updated and clarified our Privacy Policy ( http://email.n.dribbble.com/c/eJydUk2TojAQ_TXxYmmFIF8HDo7obOmuo7vruDcqJHGIQ4AKgdH59dugjnidqhTVvO5-3e8ljKqSyrccOU9aMFlKkZuYF4pKgKLwDYJszAo1YPdC0YJxVSdHwUxbtRdoTpCPURA0YliXnBrBh0WthxstG8rOw02RSXYe8JC7xCNun62hWlIji27erMiNLrKBDAkmBLvYx5btEHeMPVvYEyvAth8crImHJjgfcy2TJMlEt2AaHig5WNxKXBL4ieNRAq0e5i52AkADNtChzrk0RkuWnoHhri4LU2PKCtlTRBZw-szwW15kIHtRGxVXoIwJZEeN0EWci48qE8YIXSHitnkluKwV5DujriADZeAtoOyi8YbfnLCj6PcTIg6ZtR98de4Sd-514a4z99oLM9sx668NAO92khzgvlbi9NTeqmCRBup-Bdn8pzfaruqaH9VJfe53_1Zkz8_B8niK_37U-6IR0816_uxGc3uyW21-PG9UOjst3FjW6WuyXG2dP6fRVpYrf9pE6cv6s0pelnR3Mu_-cpS-72C-HfUv_TuPp9d-C1uhQBF4xMMPj6rURcsf51SJtgKoFNUPHOZcdqm7ew9ZocoMNvliGJiwNW10mTWysOO5mFzR_-sdF-s ). No action is needed on your end and the updates won’t change the way you interact with Dribbble. If you’d like to learn more, our policy is always accessible on our site.
+
+Thanks for using Dribbble ( http://email.n.dribbble.com/c/eJydUk2P2jAU_DXmgkDGzpcPObAEtoKWhbaU3iLHdjdm4yRynCzZX79OgCVcK0XW07zxvDcTM6pKKl9z4D5pwWQpRW5iXigqLRSFr7bIpqxQI3Ynig6Mqzo5CWY61lGAJQIBBIQ0YlyXnBrBx0WtxzstG8ra8a7IJGtHPOQe8pE3VGuoltTIop-3KHKji2wkQwQRgh4M4Ay7yJtCHwvszAjEAfk3c3zgwHzKtUySJBP9gmkYMDSjxIUOcQPiE-RyGAhCHddhFEMCRzrUOZfGaMnS1irc3WVhakxZATwHaGW_oTLAq9qouLJ-mAA4aoQu4ly8V5kwRugKIK_rK8FlbclRH88VZNaPTdSi7OLsht_84yj6-QSQixbdAa95Xeo-s7489JFe79qZ3Zjt1wYW73eS3MJDh8gdeLyx7CKN5f0g2fK7P9lv6pqf1Fl9HA9_N-jIW7I-nePf7_WxaMR8t10-e9ESO4fN7tvzTqWL88qLZZ3-SdabvfvrPNnLchPMmyh92X5UycuaHs7mLVhP0reDnY-j4a_-nyczuH4rO6NWgvjIhw9PqdRFpx_nVImOYaUU1Q8api371j29h65QZWY3-VIYmbALbXKZNZlB1_cguqKf_1oTow )!
+
+You are receiving this email because you have an account with Dribbble.
+
+Dribbble Holdings, LTD.
+524 Yates St • Victoria CA • V8W 1K8**********
+The HERE360 Team <marketing@email.engage.here.com>
+Supply chain disruption is far from over
+To view this email as a web page, go to the following address: https://go.engage.here.com/index.php/email/emailWebview?mkt_tok=MTQyLVVFTC0zNDcAAAGE6NWA46thSEuULKxIMF1GWe0kMLwz8fqy7TongUiA5yfl6H5H9WYAN2lQ_4CpSKULh3_Hvy1C1c_rQzYyRE8B96mEpeTFciQP0ovVnqGE3QrtIA&md_id=16160
+
+Bracing for more
+ABI's Susan Beardslee explains the supply chain outlook
+Exclusive interview https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA4hCo_kwIEcb3WVAjAUUO8ILLkPf-6BSVHbPjHimIoRKiGHLxdX1o8fa2gSnZSTvB9Do=
+
+
+Hi Sanju, 
+ 
+If any one object defines the 20th century, it is the automobile. This week, we delve into author Bryan Appleyard's new book The Car — he enjoyed HERE360's review so much he's already tweeted us in support!
+
+Freedom on four wheels
+Exploring Bryan Applyard's The Car.
+Full review <https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA49Jcin-ujrS-JNHmLovGntKqh62qEPnMHuXIFBCYtrv3BeGpYMRyQpaxN9QpFZNXVJ0=>
+
+HERE WeGo
+How your feedback is improving our navigation tool.
+What's new <https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA4uovhVxIyQTSH-siP2lNdkjMFVmNF0taveOR4p4HBVdJe6FLNKlpFp0LGuBtqyize0k=>
+
+Evolving supply chains
+Everything you need to know about predictive ETAs.
+Learn more <https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA4h-B19qDAmYjfyBxXl9kSOK1ouEWV6RJkuUpKMDT0Ia9W0miOiHGgvvarvELdvqwUHY=>
+
+"Slo" burg
+HERE ISA Map is making South African roads safer.
+Find out more <https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA4qGyF85ThnfNibjKYhZzAGvgn3o0U9vvMiVXgTQLywRPxAjj3KF4M3yu2ekjX0YHWKE=>
+
+
+Headlines that have us talking
+The Drive
+Can you take an autonomous car... off-road?
+Read more https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA4r_j-cRRBDbHNO4UDYnt4C4tI70eARGHkmFTlFfbFZlwkkaCIFf3NegMfjjZM5Gyo6o=
+
+Lost Angeles Times
+LA's growing e-cargo ecosystem for deliveries
+Read more https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA42tT9EpjYhlLAY4RIpP0TCjc3ar4NLXRBgXVDtsM_R_yWp_zmQqKY3r21U7-v-K1YSA=
+
+Smart Cities World
+This Canadian city is making it easier to switch to EVs
+https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA4y6qF23vv5RynEh-NiNvHYf6aPbsFVC6B9dqsgf6-0X6WtpyK401EULnbYYJQ2Eluhc=
+
+
+
+ Contact <https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA4sSgbR7til2OzxV4EwHQU4wHxQIxC1xNTUbRmLk0aShPhAY-Z2A4pZCUAGdK9UlDo_w=>   Privacy Policy <https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA42C56hZbF5xdHA85n9gmKDGJaaymnqkw9t0zP59XLXCBvdIe5T0kz9LrPUgeXiFJqZg=>
+© 2022 HERE     <https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA46oNM1I-pH4lY_LicZxhtafsvtHz_I7ZRLYMpyRvGeP0aZm9dE69g33NsBozMe3maE0=>    <https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA4xmKQLTLJzKRwsFG4BlIdsHdjzgcweq4t3CulUGjaw0OZruBl4_F2rjBpq3dZbnesYA=>    <https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA480jBe-HHxCBxWbEchsWHbVUJW71HDoxRLUC4HRxawoANWLXn4YZken9oHPPrSe6778=>    <https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA4j8tCqlsir8QSZvYTwqKRGwWzCwDCIlURjsZyltEAHFY95Da9apyzrgwmChokZI25BY=>    <https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA4oLnCARaMW1bCvd0sZZH8TQ696u6crYI3us9wWq1ElZfiPXUsXsPmEb7F-uClSMoZWc=>   
+ <https://em.engage.here.com/MTQyLVVFTC0zNDcAAAGE6NWA4u082va-l5gf4PuiTe2oH8sq9MzoTYjGjLV28vaK2N98QFVE2egIRnmJxIYQihjCGus=>
+
+Update your "http://go.engage.here.com/communication-preferences.html" email preferences  to choose the types of emails you receive. Unsubscribe from all future emails. https://go.engage.here.com/UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=MTQyLVVFTC0zNDcAAAGE6NWA46thSEuULKxIMF1GWe0kMLwz8fqy7TongUiA5yfl6H5H9WYAN2lQ_4CpSKULh3_Hvy1C1c_rQzYyRE8B96mEpeTFciQP0ovVnqGE3QrtIA.
+**********
+PHP Classes Announcements <list-announcements@phpclasses.org>
+[PHP Classes] How to Get Easy to Understand PHP Performance Metrics to Quickly Improve Your PHP Application Performance
+Sanju you are getting this message as free service for being a user of the
+PHP Classes site to which you registered voluntarily using the email
+address rndittrichy@gmail.com. To unsubscribe see the instructions at the
+bottom of this message.
+___________________________________________________________________________
+
+*A new post was published in PHP Classes blog*
+
+*How to Get Easy to Understand PHP Performance Metrics to Quickly Improve
+Your PHP Application Performance*
+
+Sanju the summary is: Measuring the performance of an application is a
+complex subject. You need to learn many aspects so you can determine how to
+measure the performance values, so you can make good decisions on what you
+can do to change your application code, to make your code run faster in a
+way that is noticeable by the application users.
+
+Visual tools can help you as an application developer to view and interpret
+the current performance values, so you can compare those values before and
+after you make code changes, so you can confirm that your application will
+really run faster after you make those code changes.
+
+Read this short article to learn more about how to visualize the
+performance values of your Laravel or Symfony applications any time you
+want using the Scout APM tool for free.
+___________________________________________________________________________
+
+View the complete article:
+https://www.phpclasses.org/blog/post/1098.html
+
+Sanju read the whole message and post your comments in the PHP Classes blog
+page.
+___________________________________________________________________________
+
+PHP Classes site tip of the day:
+
+o *Win Prizes and Recognition in the PHP Innovation Award*
+
+  This award is an initiative meant to provide recognition to the authors
+that contribute with the most innovating classes.
+  
+  Submit innovative classes to be nominated in the beginning of next month
+like these nominees of last month that appear on the vote page.
+  
+  In the following month, the authors of the most voted classes may win
+prizes provided by the following sponsors: APILayer, Nomad PHP,
+IP2Location, PHPClasses, Mailtrap, CodeLobster Software, SourceGuardian,
+IonCube, O'Reilly, PHP Defender, PHP Architect, IBANAPI.
+  https://www.phpclasses.org/winners/
+
+___________________________________________________________________________
+
+{TextPreferredName}, if you are not interested in receiving any more
+messages like this one, go to the unsubscribe page .
+
+https://www.phpclasses.org/unsub/n/sanju2021/u/announcements/cc/3610bc/
+**********
+Project Manager <sanjeevi@rndit.co.in>
+test
+As Soon as your information is been received by my attorney
+**********
+rnd1024.64@gmail.com
+EmailSinkAPI
+Fraudulent mail has deleted *** As Soon as your information is been received by my attorney
+ *** 
+**********
+Kaggle <noreply@kaggle.com>
+Competition Launch: RSNA Screening Mammography Breast Cancer Detection
+Kaggle
+
+
+
+
+
+
+
+
+Hi RnD Trichy,
+
+As the world's most common cancer, 2.3 million women got diagnosed with  
+breast cancer while 685,000 died in 2020 alone. Since early detection and  
+treatment are critical to reducing cancer fatalities, your machine learning  
+skills could help streamline the process radiologists use to evaluate  
+screening mammograms.
+
+In this competition, you'll train your model to identify breast cancer  
+using screening mammograms obtained from regular screening.
+
+
+
+
+
+Total Prizes:
+
+$50,000
+
+
+Entry Deadline:
+
+February 20, 2023
+
+
+
+
+Learn More
+
+
+
+
+Your efforts in this competition could help extend the benefits of early  
+detection to a broader population, further reducing breast cancer mortality  
+worldwide.
+
+Good luck,
+
+Sohier Dane
+Kaggle Data Scientist
+
+
+
+Kaggle, Inc 1600 Amphitheatre Pkwy Mountain View, CA 94043
+
+This email was sent to rndittrichy@gmail.com because you indicated that  
+you'd like to receive news and updates about Kaggle. If you don't want to  
+receive these emails in the future, please unsubscribe here. You can also  
+change your preferences on your account's profile page by logging in at  
+kaggle.com.
+
+
+
+
+**********
+PHP Classes Announcements <list-announcements@phpclasses.org>
+[PHP Classes] How PHP json_validate Function Will Improve The Validation of JSON Data in PHP 8.3
+Sanju you are getting this message as free service for being a user of the
+PHP Classes site to which you registered voluntarily using the email
+address rndittrichy@gmail.com. To unsubscribe see the instructions at the
+bottom of this message.
+___________________________________________________________________________
+
+*A new post was published in PHP Classes blog*
+
+*How PHP json_validate Function Will Improve The Validation of JSON Data in
+PHP 8.3*
+
+Sanju the summary is: The development of PHP 8.3 is already going on.
+Several new features were proposed and accepted by the PHP core developers.
+
+One of the planned features is the ability to implement a new function
+called json_validate that will allow PHP developers to implement a more
+efficient validation of JSON data structures.
+
+Please read this short article to learn how the json_validation function
+will work so you can benefit from it in your PHP applications.
+___________________________________________________________________________
+
+View the complete article:
+https://www.phpclasses.org/blog/post/1122.html
+
+Sanju read the whole message and post your comments in the PHP Classes blog
+page.
+___________________________________________________________________________
+
+PHP Classes site tip of the day:
+
+o *Win Prizes and Recognition in the PHP Innovation Award*
+
+  This award is an initiative meant to provide recognition to the authors
+that contribute with the most innovating classes.
+  
+  Submit innovative classes to be nominated in the beginning of next month
+like these nominees of last month that appear on the vote page.
+  
+  In the following month, the authors of the most voted classes may win
+prizes provided by the following sponsors: Mailtrap, APILayer,
+SourceGuardian, PHPClasses, IP2Location, Nomad PHP, CodeLobster Software,
+IonCube, IBANAPI, PHP Architect, PHP Defender, O'Reilly.
+  https://www.phpclasses.org/winners/
+
+___________________________________________________________________________
+
+{TextPreferredName}, if you are not interested in receiving any more
+messages like this one, go to the unsubscribe page .
+
+https://www.phpclasses.org/unsub/n/sanju2021/u/announcements/cc/3610bc/
+**********
+Project Manager <sanjeevi@rndit.co.in>
+test
+I wish to accost you with a request that would be of immense benefit to
+both of us
+**********
+Project Manager <sanjeevi@rndit.co.in>
+test
+I AM THE SON OF THE LATE PRESIDENT
+**********
+rnd1024.64@gmail.com
+Spam Spoiler
+Fraudulent mail has deleted *** I AM THE SON OF THE LATE PRESIDENT
+ *** 
+**********
+Project Manager <sanjeevi@rndit.co.in>
+test
+it might be faker than the bitch who told
+**********
+rnd1024.64@gmail.com
+Spam Spoiler
+Harrasment mail has deleted *** it might be faker than the bitch who told
+ *** 
+**********
+atchuma mca <atchumamca@gmail.com>
+test
+I AM THE SON OF THE LATE PRESIDENT
+**********
+rnd1024.64@gmail.com
+Spam-Spoiler
+Fraudulent mail has deleted *** I AM THE SON OF THE LATE PRESIDENT
+ *** 
+**********
+atchuma mca <atchumamca@gmail.com>
+text
+Keeks is a bitch she curves everyone
+**********
+atchuma mca <atchumamca@gmail.com>
+text
+Keeks is a bitch she curves everyone
+**********
+rnd1024.64@gmail.com
+Spam-Spoiler
+Harrasment mail has deleted *** Keeks is a bitch she curves everyone
+ *** 
+**********
+rnd1024.64@gmail.com
+Spam-Spoiler
+Harrasment mail has deleted *** Keeks is a bitch she curves everyone
+ *** 
+**********
+Testingemail 1 <testingemail1000000@gmail.com>
+verify
+As Soon as your information is been received by my attorney
+**********
+rnd1024.64@gmail.com
+Spam-Spoiler
+Fraudulent mail has deleted *** As Soon as your information is been received by my attorney
+ *** 
+**********
+Testingemail 1 <testingemail1000000@gmail.com>
+money
+THANKS FOR MAKING OUR HEROS HAVE THE HOMECOMING THEY DESERVED
+**********
+rnd1024.64@gmail.com
+Spam-Spoiler
+Suspicious mail has deleted *** THANKS FOR MAKING OUR HEROS HAVE THE HOMECOMING THEY DESERVED
+ *** 
+**********
+Testingemail 1 <testingemail1000000@gmail.com>
+Re: verify
+Virginia is full of white trash
+
+On Mon, 1 May 2023 at 22:01, Testingemail 1 <testingemail1000000@gmail.com>
+wrote:
+
+> As Soon as your information is been received by my attorney
+>
+**********
+rnd1024.64@gmail.com
+Spam-Spoiler
+Fraudulent mail has deleted *** Virginia is full of white trash
+
+On Mon, 1 May 2023 at 22:01, Testingemail 1 <testingemail1000000@gmail.com>
+wrote:
+
+> As Soon as your information is been received by my attorney
+>
+ *** 
+**********
+Testingemail 1 <testingemail1000000@gmail.com>
+hello
+good morning
+**********
+Testingemail 1 <testingemail1000000@gmail.com>
+h
+Hope you guys do get attacked for supporting SOPA
+**********
+rnd1024.64@gmail.com
+Spam-Spoiler
+Suspicious mail has deleted *** Hope you guys do get attacked for supporting SOPA
+ *** 
+**********
+Google <no-reply@accounts.google.com>
+Security alert
+[image: Google]
+App password created to sign in to your account
+
+
+testingemail2000000@gmail.com
+If you didn't generate this password for Mail on my Windows Computer (2),
+someone else might be using your account. Check and secure your account now.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=testingemail2000000@gmail.com&continue=https://myaccount.google.com/alert/nt/1682960544991?rfn%3D20%26rfnc%3D1%26eid%3D2153794299930132557%26et%3D0>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2023 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+**********
+"CARS24" <newsletter@mail911.in>
+Get the Best price of your car only @Car24
+http://zvuo.mail911.in/campaigns/vy622jz0o60e8/track-url/no916oqz8a027/708b64b7f76292b016ea316b04322fed6baac31e
+**********
+"Digital Bank" <newsletter@mail911.in>
+Open your Zero Balance Kotak 811 Savings Account in easy steps
+http://zvuo.mail911.in/campaigns/rr832gqk43842/track-url/no916oqz8a027/d59af2d2bf329750823c0c72d48156ea037584b7
+**********
+"Coverfox.com" <newsletter@utransmail.in>
+Buy Now, Save Big with Term Plans on Coverfox!
+http://kaxx.utransmail.in/campaigns/ye914exj54a52/track-url/no916oqz8a027/129c5aae014badde1055bc79fecdd1122d70b93b
+**********
+"Masala Slim Tea" <newsletter@mens-health-express.com>
+Get Slim Without The Effort
+http://mqif.mens-health-express.com/campaigns/rl65540kblb72/track-url/no916oqz8a027/41c8c5601d13b52e1b7d3d4c94cc9cc217b77d48
+**********
+"Lotto247" <newsletter@mail911.in>
+iss hafte MegaMillions kheliye
+http://zvuo.mail911.in/campaigns/xs818tq6o4f82/track-url/no916oqz8a027/b25fb09451a56d50b55bff0bfbf844aa6a499cd1
+**********
+"Bank Account Application" <newsletter@mail911.in>
+Zero Balance Savings Account only for you!!
+http://zvuo.mail911.in/campaigns/ej710dxjad771/track-url/no916oqz8a027/bf041f1030d528a0901f5161b0e24a3b20b70945
+**********
+"KENT RO Official Team" <newsletter@mens-health-express.com>
+Assured gift worth Rs. 3000 on every purchase
+http://mqif.mens-health-express.com/campaigns/hd262pvnvz6bc/track-url/no916oqz8a027/fffece5c83e52087bc37527b9f7710e4afd3876a
+**********
+"Team Policybazaar" <newsletter@womens-health-express.com>
+Don't Delay your Decision to Secure your Family Future
+http://gvba.womens-health-express.com/campaigns/ng393s6txm5f6/track-url/no916oqz8a027/b46129e503837fdc0ba178122e246b314989ff65
+**********
+"ICICI Bank" <newsletter@utransmail.in>
+Earn cashback with ICICI Bank Credit Card! Apply today
+http://kaxx.utransmail.in/campaigns/sm1429ax7tb0c/track-url/no916oqz8a027/63cdfc039ff20d1c767d6f550b3765d3e8d256cb
+**********
+"Acko General Insurance" <newsletter@utransmail.in>
+Ismein dimaag kya lagana? Upto 80% off on your car insurance
+http://kaxx.utransmail.in/campaigns/so268vf4z3003/track-url/no916oqz8a027/bf0c059df2af3d73a857347fab7bf9fc80860e49
+**********
+"CARS24" <newsletter@mail911.in>
+Congratulations! Avail best price for your car now @ CARS24
+http://zvuo.mail911.in/campaigns/bx687q7ozj77b/track-url/no916oqz8a027/3b7af18c4581edcdc8364ddb96aa4b1b8649658d
+**********
+Google Play <news-googleplay@google.com>
+Quickly find new apps and games to love
+
+
+
+   
+<https://www.google.com/appserve/mkt/p/AFnwnKVcPhL7Xnn2_N81_uaJuerVVwC3GbBXKtlAx6IvvA5G5Ucqh-RBmpm4ZT21gA5NL9Tfvr3Joc3GlYlanOkW39rhjwA_p2KI9IEMBeFyYjV0GM_GPP2rpB4vZl57kMiiinMHMvQzhoAqKlmlXnzYAWy2tL0OnuooTafucZQgFtH18Idk5GpvqBlaFTGnCH680wSGPsemx9BaoWK4p_FrgxEEyNnV5J1P8KknVT140GMt89lT_uvfwwUD5Z9lXFQNsaqhYf_sjfREafnR6Do1_DW8p8_dyrlBpwXZl7x3GO2zkQ3aqXT8a6PdEGNh_l3yNvc19XqIEps-CRrAvCvF8w7g6lzMlrX1SCwOgxnCj8UdMtrVNoAeP648G7sPEJOWfmtCbJ78dK1uEihF74wdOUrM8-DACaEi_Q6N2MEIiDvM1DJ7AAiF9DFnJgaAHrMXLcx4o4l7wrA_19DU4IcYOBt85M2WsEhg49TOhZGnhQRcHq83mSJ9VPnIHr7b_2gcUhojcsikxCR8E9cUFlqSJdyva5R9WAgXKwBw9MKQRh685NWGrP5kxy-vgKTNJRX-JRBRUrxCA-RCE-kew1FvE1EaQdtIiBMH_Qb6kT5oq-nuHk6OKbIZwErL>
+
+
+   
+<https://www.google.com/appserve/mkt/p/AFnwnKUpjtOnFH3acEuM558t0DubHxyNoEe6Qs0kX7Wr6b0Aq3tWkqJ-5wEF2pU2Q1VFOszcfbfPdIT2HlSfxkF4Q7dkgCZwO0OpJdLxANrizYPgqkXP48Mb3QvLmJk1ATECp69isIfcO_AjRJetSgJmhHM6KXDmBHJgepkfIweEibzrOfKx2ACAqISFLrasYIuDjjICaPR8oitURBj6p10mdGPVhu6k_Bu6vh114VdMkaRWkAGYvNXZ91C8b0TLeDm0FAbU71lJ9qfdwwbTrSQo3uU8JJoYlcnTcrCO1OcxLqvtpG_IebVIGj6k_hKDeIABzzXUbiiyd3lGlzYHrfsxOEHMqZdxiyh0ip0S4nNbw_BBVXIRgMLXMsqr5u3qmGbKgvLWAm7TLWKj5CCgvIbEsV7F4JrpwhKFOcygIHb2clfJwqAwbvcDiOgjNhOJV-cf7c76AjZ-N8XpjbYAHiPKod0eGDozBBXge3vum10xwEsbqhnDLH4oi31xXWOJk9uJm2LiF1Cp9IvPUD9PT_1eJ_c799GWAwZDKfRTNh52gXq6v3-ls09A-D7E9X3YHHXuD4SPdFjJgcqJJBQVhz5KXKsFc63dzmGi-nTHpxmPU6bCXjuvefzgaY-BrszmlaASdp279gOxkPvIFU-bdr8vCrCxfZzosTVxw3I>
+
+Let the adventure begin  
+<https://www.google.com/appserve/mkt/p/AFnwnKUfXPMD-22SKEZeyX9VPD2ZcdIKT1uYm9hvBCSmWeRyawqOUGGWeoo3Mml4gC_A56pZ8I_0zsK6PqpVEa-LbZ_dvLPkopfgrVmhEgN9kyMqYucijszAeOaSNIn27JrqHuQiU5wV1heAchMhkTxyt9gprNqm07JH7irpxzeZ0QtuF3Nio1ya0QbT3z6ZMyLUCTbb6UCNXnIOP74nw88xPpq9i5qpvWlvTVBMFWsUznjLILkIenKvOV3hvuMsTRwNY9rI-HxJxM5PDX5qsOjo51zGRkAfmbb2pz7Z5YP0pkARZjRzf11I4X4WEsfponFFoqP0TXity_EDFKnCMFJW31PIcVLp4TxnDJI188kPc1wTA56yT-bRN8b_4_xSeYsyZ67Hyv7pRY4CfoXacvT9FXccV274wnkFrqMMxJzw8DR5nna5vkKVe1xRS-nKxcjoHaWh5G6hF3mapSjsM9IUKgFki-tL9bJjzM_lVzakSrteeYXqT0e0OACzLJoW-Vm1HmKYFB2Tu5X7aMQ_G386O-lowcJDPmc2mpu_RWdKYfjHL8VVsyo9Otmerf901jL_jprz9duXoOlyUth2wXLeU8fuDsLxE2hS4Dul4Ew8VvqZKeE_PX2Plv1PBpGBPdsPNvmbs3XLnOJp8gac-Tfc4xzkLt3rrqetOXpEVz_xyEU>
+
+Here are some easy ways to explore the Play Store.
+
+   
+<https://www.google.com/appserve/mkt/p/AFnwnKU91YKeQspchOeBpPBy1iMkBW4pw8EhggcuU59a_n52wVVxW7YRjdpjtMCHcPTrnbFovOY7aES449GetlWGdMgPO6d-E5ROtIfuKgrg_jGtstbvpCqe85aTxPmAGfEDoVf4S6C5AXa3iD90mmdSsDBGVqlYheZX-Dh9TamFmRRH_LHeFIThkbFGGE-FWiu2a_B0FG159N04BwKaN-8c4gn7aWl5mYPveSHJWvRLaj4PfllqcX1Bu47CuVQrgmh8e1phO647z-Da-_vaQcP4-S3Fax-DQpJ592RIQ4Z6XTMGahc2vmLisj878lRaYaGTBdEzey638b51gdxhjg8aMjS9x6egnaHhJXtopNo3BaIHu9kjC6hqLCuqBDm86lGsfwD2eVrLFvZ7vWNv8Yle9UqzDFUToReRpzrbDphYRjEozr5Ygd9wHwpH6pa65IFuH0rLcDzu1M1O8KOppDdltSnSLZ4o1-2q5Tk6EX2Yhib9YU6ou3r2emqhBqevVuxiRZRWMDM_1faPOGzUHfjafPx-1KdFbJQFz3-YLwEWaBhIKdUl3dgy4qWPSNMQSXWY7BcdeFeNJtLPKjZ5QJN5LP973yI2ERLPjHiDu7SXIRGvzGdrVPER5uE1WT3a0b-HJsxmJc3w954Gx24IjZwKDNIA6vjYPWZaAvNI_YkxemZPyo8D0sFo7lew6o6nBs5wlQ1UKnB1>
+
+See what’s new
+
+Browse top free, paid, and trending apps and games.  
+<https://www.google.com/appserve/mkt/p/AFnwnKW1JFA_OI75tdAaF9SUODS2RATHZnG9jo0U_zqRVmBsdWA6gUCz4SIFkbSbmUv4jqr-uBDBrddD9qZg-19fEkq0hVZvUHrib1RRHHzd7lQ821gsv-gjDey5WEOdV2gBKck6vjpYJnnCguGpxduYD89O0UeyyrIHInQqrrc3fbGGbdPcS3JMShiiUHjio77meG8RheoX0MSbXdRT-OM3PljrGtzePBNnKcPUG38Jl7hORSkhX83y7PjJT7N1L2t93EWAEOk8EpY0Q3RQrjdcFHlj9jj3EpRJ-crSxe69OeVhC8nhvwYDqE2so7tHhTm2oXc7gi7ydBe5DbZtJmvcbZ7jd6dok27e_q7ASrnGVMjafsP_WoHnKz8Xrwe7Oid2Z__2e5EeiAG3KGI_reLs0dpFXMeelIbSd802yIaYCzs5gtbIXhkYyDVRzHWf2PTP9sNWofLDO1FpMmDeLdY2y2C23Vv1UuUPr7eXB9mOcUDky89LtGgGFomlSRRb_lNVB1HMowcnxSNP_RKsJ_JLUxf1NghowoLu9jRUV5DDBVzlFj7Xjb04WUE3577Mtblbb55gEu_MmKG35k3UOapjZmONuy2L5WaK6UIIQyPJCv3k8Ix8AeIz_nTxoTePGxEufc3OmnOhKSDdxzddf-DN7jg5-qHQKD26npKMAPki7TSs6KMbUPpRACoi7UK9Dd_ZFpc>
+
+   
+<https://www.google.com/appserve/mkt/p/AFnwnKX-0an7AFmd1bmLoOf5ic3bBh1fJUOe3tnUACq72n9rT96yysZTHGxBa2rRFUhIrfi0hItTBD-m4Qmsy7cD21VHDRxoMe-EhVDGtOgxN22rWrUqS4mUTTThjQlsjEWPl97w9f0aeRsbQVaxVaUeQxWtrn-BOYu7vPHewpsOWhB8CG3qLZsR9iTfbRqtlEIwuy2PkluJST6zANTCfeg18QDRc7VRFXtnyWlRstJxO0NVA7wjtWLdj5XmQoyppVSdY8YQpN5Nf47iMbtW1-gR3l6GfJP75ThXYIawE1EJVirL99V1_BChKse5pA8NxTPw5co_dybgrnNUGIQwB-XYLpPAW6oUoDLC5YVC6z0UUPGpZDg0wYlFzV3Q5i33Ug3wNHEbKdsU48FW_I8kh5-VOPBbfeMFaR3uJjgDU7YuhqOu1dkBnN0dlyJIRcXq1v1o7qbzy0MI-yZ8P-aFZJEJxyEC9oM4Sq0zq_dy_optUy5K_z1zySXXZrbkfw8B7fLR_JmrTg8eVm-YjBmJCfo712oHs7XPrW2-EtNyBh1J3RMI_5l8aHoN8_fgiri3QKGjkGuksNyAh8UkbBflZeEbGGMj-7Wq27DymlPtm2LNgJzQyGbOqTR7GEkOEZGgfUDwNasRkoggHxUAbeSpnsXkXlAuqr1Qo2Byky8t8WZE4Np0gAekbtMscS-cx6CftySDtkpACKRmrIZ7Bpmx9P7hcYJ25Tel1tHgpca0cDBYrySmQK1oZETgSFG_k31hRg>
+
+Be in the know
+
+Find what our editors are loving.  
+<https://www.google.com/appserve/mkt/p/AFnwnKVfLAtxvkatfYWrmpPkA3INM5yq4gQ1nc-sCbFvQVgWCNDSOS8L6D3WHe9rjy1UaXJDAVTrEgKULIUis8TbyYyGEXwusPBhoXalXk9YTIt4P1h7efZKIT37mUIJgxOpDP4B8wjKnW8Tbi38w2TOESdF__kt0k4B6MzvqNY8mgy3UtWUCDYN6o8LIT0XeAUiWCPLMNM3eXSiwJ0D189NnaRs7pVigtwQjTvdN5NFZKiTAmVCBXaftqUp64huUcz2sJP8E2ogEMxLzLIKCKKniJg-0tV889zlaZ0pFyt9TLMze2dcz_oJIeBIC2OA6sgze3xCvlohQ12wz5P6l1X76axEQOylGv0hYtd5QcCtE4IeMqEXZ0dJXBxgRLORuzd3r8L8BiDNh1JoO_ryTly1Qu8allQk2e1TKg-ghVDBKw5bc3xP2AMRtMm8cEbbmg1KItQhNMj5EbmaAgU9KhEk9KjX_X1qfVML3NLZhOZ3JbAh6qSXJaF6vDBTu5f9g7pNJHZhGMW17MqotR3Mf-Vbnf5OMCBNaJH9xcWvmge4OgfYYatkZt-Vd9QWbgpqZdoWevtW8VupHqkg453PjrfO2MNJa9qW28Ujg-l4D8D4yb2qO-UBsq-pjqbLL1kL2Gk4kDklG8lHgIRz515M97Qtb82BMdl0WOc88em7tJGsJiCEvwRRkKE7RLa3UBa9Km1UPc3zVd-fg-lYLQ2BUVJqnjuWkyvF6kGoF2BDQkNJ8dyE5GSGplS4PREJ>
+
+   
+<https://www.google.com/appserve/mkt/p/AFnwnKWHp8a-NdmPKurRjPIFlfdlsTISrQNdYmIwHYfShEEyzhgsuY8gF4Kj9V_7mhJpDgUvo5oSbc87AceQof1AKKql8za-zdiB386pWWtlq3fxTvw1HaxzvWcVl2aGV-YuFEf2MPHxubs6s_JBIBQs-1vXTI08qinXAYv-9proULdkuJUxq6SVv41PRU34vINa_Gcy2d2-RUDDUvxt7g-AnbFUTF4Qavow1l1yrkA6rNsttnvd9RkXAX7TDTskOP9YleE8WFZ3o9B7VYUW_xwq8Ept7s-M8Z5NjTMjc1Uu1Uj4sQcdjh8zeuNHg7br6of4EKpQaLHAei1JqwIl_tg2TyqVut8gaQwlmmYjIxegFq8a1gKTuhKr2FAu3vRzSXgA__rlErqqoXZ934kjp9kKcJvs-E2M6cRvlvn8BSREt2hsgJFnMLflh673N8hHqIxuoEFPcAPpTm3gzsPvIWHhuY5wY4rO-G_RXDGuSzbC1MU79emAMEE4QW5H4cUA6lWN1UwJU_zzI3-ZqrygSlDQLhKC8Q-iNIF0M7Rlmsal5yyrcD7sJ7oXO-Hvz2i88cTh8-rVaCjlsVYDHi_-WcdsGfBuRSvTc0GhcGQPDXieAHtLSlg0We5LIm5mdZfLWgkklixFHiYi8REaLAAKVokD6GHhOW78tazIFMQJqF3kqiPdV0mi>
+
+Get suggestions
+
+Discover new things  
+<https://www.google.com/appserve/mkt/p/AFnwnKXvFTfXai8FF5SPLHgJagnjHxBjflm9L8Nh6nA_hFPw9eALcnMCX7iqiMH7oZCSbdzKK-hXVUvA1Rki-vi84Jvnh_2U0PdBjSRPkTO9do5LAB8dlu9u2jltBhQnVaQ3AL8kV0VHVuGQ1pb27TEriMs0S9DnjSmMf7-IQNdDxnMI62VodJgjzyY1FfjO2fCUnc0W-ereKv_5hWG3ThF6wiASqSdlL_FYWhtnAwzJply-3j_fhsvScMvUF9BsApeSyoDrHwYbR0RBO-wWHAesCn9JkyqvA3z0SqqxmieFbiebpzEcHmTu_T6E5OvGtRSX3dNzGMx8CJKkL3SUUy2-jlHty4ANu1eEaLb_D4kkQDBm0FJ4zHHVHl2wPHMR5CeaepV2GqclDAzO692P-OezmawQ1klY0_rV39PmmaPWcHYTZKQBwQjNHXXL3lssH_qnkw8earSv0Sl7ImCaspZjGbxturcykZ7OwOS_mfOQM8wBqhlbogCj_j7g4Owdhd9plS3X37RIOONnMb77hK-eujdNQeZ-3ZfXlaJuO65nfB9YWN1pGkFShtFdb_A_zH0BbRxteOQ2K4duhoVLDhCKwGFJ2FwhbE4vn26HTK7GQhTiBaXVTpkoOhfvUWmk0-Lmj17pRQpQDrSp8cD7CNJczuxi_ZZdAuC4sMHFDCj55es>  
+that match your tastes.
+
+Start your search  
+<https://www.google.com/appserve/mkt/p/AFnwnKUFQSZenprYXZisGLrld72EPYkdsFaHI3NK0LyNUZue0zCdhDszr0P32ah7K-KXPxuYLuSvzNFhrqffCL0t3gI0Ve-3-PhNkO7AA3Y7pgCSjXmkFNlnmbJs4MpZ0-IZulAoELd7uFuD46VJq68AjBnwwp88EKaRsHTKFUwe0q9xl6QZ-cgvVcC0KA9PS7gjv3cBNgPb2x1OB2ty-sAzWVJlZ9ziGdt1labtuBO0jiBlGT4Ke4Ng0z6ZODwBTdeRtH-R3zr6oJ0kKeRV0hI8XmTTlmAJ21N59p8ynAaw2_-DZgeO-N0VhNyKv6E27qUp_pZYoRCwh5Szfyh5ujKIJ50GwDSHjpcwDBHIRpaiuJQJwi-dbukOMjdP5DYK30yKIpdPJM0XwISk-jGXzwRaMaUykANWFmSt8F2acwFpJRoWwd44YlZnbqfIbEbyxQWXFO-YyqAyVLX025hjZtOSkYO2nrGxOBuU7dEVm0PgHVutepqqcX4dT28Egz_MTXpmDfWv7-tepjFsTO8otKF6jnzzJDUNywtxP8pGvaP06-tcLI7LGIEhxAph3oYeIlC0_qYjJecu2hBWFV7mlXljK-5oLVgs5vKtw1xsyLJmHg0hlKlkZfx-qf-imntBDhCPXXg3syCE7f2jtBvT9vI82h4FpFEqtw>
+
+
+   
+<https://www.google.com/appserve/mkt/p/AFnwnKXoOQo3KJQH6U1xc_rB_s-VD9XXe_totJ9cg59pUuhRK3KQeh9sdkJipSvrS7f4zgKWDCExwAEhOKvKgKOenUssbMlEcEi3A7ErPsjccnw5NpPtC8u7vvNOaEED1K3Ld6_RT85AwuMvIqHXSnCYbY_Ig8yaHtZb6suz67rOiBOW2UA1UwKqDS4QcjUDbxZRgu0TLoCl2PQRsRyux-GDddXQOS7NgSNNqF0L-FrCI4WARwaWC0CGm7HT5LkQ2iACdh7oqekTR17yZlGHCWUhM0jtTIhIap3YCG7Ql9CzWtUbIzX2bWn85SmZwtBu2NUhrEc8VfwNOGWknzMEdo09TlVfCO3CPz1XGuY4NWTYRrhd8rwn8sOUbgKnyuJmZwuHZVIdHI_FRP7X496Dj4mw18pcUnTVszPLGv4hlDaZ0Bkk5GiK7gqUzdtM5v5R3-q2_3Yy7YQc-lqSaN6yk5o70Ycd_1BX5Xglr_MohnnrdmbNLbtin8Gs6TRgCPMM-J3Qq7oDa7pd8Xi3mw_bbxcfSc-yTGL2gdJBYmNK91XCsoBHSaGwnE6yhdY-McoCky-lOfOMD77J9YiklQNy2zz1-P4A_SC2w2pdkeWtm68nGJbe_HMhMMQ5eermQv3aOXS29DCU5U584PFXJQmDUrlqnxpsCeZFA72pw6tTQUpZ>
+
+Test-drive new games  
+<https://www.google.com/appserve/mkt/p/AFnwnKUhJeOJtTHnCAahqxn0F9V5586sPOqy-AhmBDPjAP7buC2vQt0rroHBngkcAh_SE3ChJSdSz8nnwZIyZx7-3pbp6OXMYE3yokpoZT_32WKR3iR1kt3JKUlduVYCaBDSk6l7Gj1rkCzZwN5oaM7KTLvuKUZ60wurypt6lribOldB5GfdBVM2Vf0klt5qwBmZUtBgdkOKPkaGF03r0PsDglgQk9S6cuenJ_SRKpZDvYG9hIntLD932FlVikVFHId_uFWxpzadZmyBBI_Zs56t7lbVElOSE-op-pzNo9Dn4xYRONAx0rUQcci84jOAXq2OIS10epBMs-KJIZEh31MolC8IMkNgQ5qM1heqqayry5WN5Q--ikXqqIJuMdBptBbQ6ru2tmJNYYQEkAIbr3AMIbcLjHJXfcnzHTzBkpCy76AdP0S_Oi8XREWxQevH5zGlBqwt__IJjVAFwtv1nTjMRTXUyKWXe8XW_1_uQ3tJJ8xrInb3B-dZj-LrIxH3yPkdGy6UuRkQy6RkN9OJ6MZubR-jMJ-z_8uTcTZxkCNTnzytdXJQ2bll2mOr1V1Rv1UtT0V2_qtbF7sV7i-I997JScqCYGa3c1OnSgHSr3CbXrhV4KEm2MHVwlQxBfO5ne1q7RHe_jJzQjiUamURpuiwG-UZPNkH3T6tOyZRgmZJI022mIu4>
+
+Sample a new game without having to download it first. Google Play Instant  
+lets you tap and try games right from your Google Play Games app.
+
+Play instantly  
+<https://www.google.com/appserve/mkt/p/AFnwnKVz4Yc2vBrLda90PfD5WQm3X9sxfVoKZoTse31LeQzCy0uOIgVJBESUZqDMa5w-EkTAa39YK9L4eh4q8wca3_JZ_fPgGMyeECi6wiTdvwNF8cyhsuVCkc7oLbnPdH5GXt0O-l4Q5bcIqT0_76leZOH5VKpg2O9P_lOt5XNnBkF37PkqSYGutbrqcLZNSp3FdwMQb-ktbP5MYWp1QUOiD_8qBua4XQB1nwvAWNQFTy2W_ZH0b8xt8DCGcH9wTt9fZ2Ebo4EXfFNpSA2Y2y_l7U73JlF8kOzkjSo_Pqta1XO_pQQUnJWr0jWH1q2EXzp0F9OQWOkof-xIjo60aofAO6HwSp-wfinJbG2Us-XlALZud5X4DeXYDAgvzkJAynOJXiFK2WBxBwJ_rhXYqZE3lDZ3bwm6IHbBJm21d_iFm9fMLg9Fb0j4GbcpUTQdHI6Ad879KIUSngADdN3RQJHnK0bAb55-VgHTNC3Uloz4eBNbwnWmPCVS4_qivxBVwL2SohkDkyhcOhm84GMzo5LRo6f4rNH1bpBWc5EKJbs2KJgOWFF8CsE8mLoYsQClUD8-a4gYlrgREKJHNGzHae2PO5FayrdoEUScNIVcSKSZOsImwBbXdr0TSkwUoCjdu_FmacKV4UXzl-bSMXOZ7EC4c6ir3s-aqdtKmYM>
+
+
+   
+<https://www.google.com/appserve/mkt/p/AFnwnKUXiaW7DwJbWR6mJPa5EaaPCp78ADMZxhxxIuBy5tVug5KdGcyrx64Rf4SNHhhPpGQ78OznTwMId5sMGjeYTJm0iE5UiSLYN2UDgiFZle4syR49GLONL1pBSxto_veXlhrAWfMkwmqEhwcwFODl7w1sF6wk_IdsGiCikQKA36yCWPHOw6JxwhlGYWEmZETUa-5EeTglLFs3D63S0ASisO6UhOK5JnhCaKl423upcM7PmSGkODqreMEp0au5J_XrA7e5sRnM8IiO20amVUlhxzgaAaTCQ-OKzO1j98K_HrgebhVHD0YIFWKX7vBSJlw0nRFUm8PtxdSn6XLaoVOTW4m62_hC8cK-VcruodUVevQtTfe50JJ58MiPZR1FrTx-88u906YVL6_Le30p4q6CvGcv8eTrIhcqpxVtml_atJ9ZZu2ITJyEK7RuYIEYNVHwnne2GRCtSpYfJKXdbGoLg2UukqYjdQdYeN_pDDezG2ycKQ40uzmUYqeB_Eq61gXLQznhYkeT-mvqO7zNay4FBvp6i_ucopajh1PMxwi4a5nCI6WPsE8TDFiUyEID36LP4PZWO0So58yexxJ2cUYadgS1g_yNocDTtrCofrR06ypBQ5bd_ymGW4imB6eOwD0VP1xVUWA10ffw4f24KkCUtWU8BfCIC6WccggrBjjcTphFVdDvR2I7w-Y0JEKKHg>
+
+Keep your momentum  
+<https://www.google.com/appserve/mkt/p/AFnwnKUL93scYWNIdijZLQbgbnwqQPl2zTo2Lb4tm8ZmtIpzXENGMiqykRGf407tc3lslpoFmoLtDXBXt3pDvUxDe9Krq0ghALv5DqadwmAOIOcYSuZMkW_mM8e99kegaz5KZCI1kH3YYxOsOYM-A8ML0q09ThYzqDBECkn-yZn272Msz05PzfvxfATtHVX5N4hUqi54jYVEhMCnSLlOHcuWUKNRsR0Ib7XOKmY-T54Ejf_I2L6V2uLPUa5Nyd_bNaJGo1CIIOanVL18BbqikCW4TAZn0iiNjzHCpDbDZ5f5zcH9K-KOD1rK9Ay3CDS97ju9FkKlYFCnN2mp4DdDUUUB6Cmqn1hbZtloN_h6DLPn67LzuzoGLuCsRRywQPJIoi4l_Amrld9yGL10k9jwmSVxVB_7B3xrJC38gblrWrwkKAPisnhKD8R6CYZ8J7dlD1Xb8JMHiIx3enoIczL2xc6y6bWrHZPbtMvGsfnW8pE2oTLL-vFGYY2Hc1jJfi-PUPYfGyb6S2WTPJgdhN4462q3LmiKFgrziweOvdgj3vtYDazjcu4ahCc2geeJfXzbwK6CEr6q8T7WkNmoiKCaLeuSpJ6qfz7Mtyfl7fjHUNNPEZK5shHPt1zXRoGsh_yGNC6eWPKbWFi9wbamSz3exNkCREj79dNabq0DBMJGe3j-LeNvlwQoepXVH2z3mMh2XMzVwmV1mg>
+
+Make in-app purchases without being interrupted in the heat of the gaming  
+moment. Add a form of payment to your account.
+
+Shop faster  
+<https://www.google.com/appserve/mkt/p/AFnwnKXgFhCRTjcIsGDwePecAblNr8o0k2a8R5f0YERShWP36NvsJypE4zVcvnzNF_O3Hp_AxZJyRKV3KpX7uN2iHg5rrCX2o20OMMYMsMi90Tj3Mb-JQoYsxZPZeKBAKmQY9pqgF4Zu8C0MNtOhZgTsw5WxAt6_T58M6Ms-cTJHA9KbSKnuBWqh4kkIH5k1PDJYY8gb42UR9Oie7JqXS-TwJ_2HB1VRQwoCZ5xNOjbhdyucO9IIV-N3yjr9dzZDHaXGUKY3kYuQlK-YFNxG9tZ6cqBqbYpNaK9UFSwSDXh7hPN0ch9FJSSd9YjBXjD41jMh2mH4yBpk_yZpUxMZfBdxP2qR5vbxg9UarW7xl8qr9KWbqFO3-57asTwCWqJ1MqGJf5ByxlcPTvQDoe1g4rvHOSdxKshwqUPp_qievUsnCVBcoygoh-z1NoiJhpUsIzs98TmmM57zmwhayohGvjgMHySqoL5CVQrX0h1lbUTeAM0Q86G_2EmGeGEsHXw6FVfOSqAXaVIJmkzh16o6hCWi6DXP_6wNzrX8lLnhXK4zHYgZgxMwWNlt03F5qduFBmM6F4qwTIVve74_IbCRgVwcsKQPvKGugN88d3HzL0wdSJ1A5LAchSnIebRW8xaRhxJCWcgBLB6GpY7L_q-EQATy2jkMqoNuyOuyZ91iZHIh1NHU41y6buejFlkh>
+
+
+   
+<https://www.google.com/appserve/mkt/p/AFnwnKUNlLzMJVyThcYYK7LWTv7YqfvobIf4B6o4V24nKo8_a-FLwtlWFE7d5PgS-Uhjm5XzDafLp5EjUod49Oh3-MK3N8ccNMM3QVEt6tPbZ73l2nD8uY1n8IexW2p39l4Hp4K3AOj6fxyOzlwPSXIN8hPWoRymU7TOkWKGkUaxx3qtDwoQEfmLt-4BudDiuJvNQhr3qCSh0Sr_ZJGmmoztb8gZD_ofSh2OguLC9O6UB19B3nmGvFfh_O2PbZJN4dEEP3SQkE7o5vWtt7plUpoc2YgtxzEEYAFrva28kfZnQb2XraOwG-poKEizl4QuBQ6ALecceMvxPOhjb_uk727INTINBODFTLk4_rJANMboY4q8ygWjem_b-Qrphz7pVkwOmTuMpyL3JOjkRDSahxkSp1qvDlqLQ8AglrLgTdYoFO5txRsxaFdyEjY3cHHEwRIgj5mV-yFf6Fg1XxeCxe5Mez9v-pzorqxjqanqJYJZFcjSwZGP2apeZfthMMp5T5oUOyP4Uvp-8GVXrE76SPdWEgMImq04TVaUOghTlLnQ3Jpz_kMspuPgMiz9L1bnL_dqegkaH4cXZCrKyP_ml4gsx_WxdCBjgYdzcfYyyNinNqwD7E1-TXpUJQn34pOJV9p93KfR_4N2T5rB9I-qxA2uymrRqyA4yE8P6FYVnjadZpOs6ma6P78>
+
+Tip #46
+
+Stay ahead of the game. Check out the new releases  
+<https://www.google.com/appserve/mkt/p/AFnwnKUfkQ-k_RsZQ1y811hHXyQYO0t5h1Jmztu1IgQnTMtZV8vbxDObZ7pwAEdi_5EryvAn8GOVKlkv3cxpKxYzKLqKrF_JGZkugM8jaTp9-MuxgMLuDv4H7Mc9FIvk9ZBkEzGjlLKjW-l6hHR92jZpsKR_kZ8B1t8hMbNIjtQWfKZWUctTHMusTjXEGiGqCICHTABgISFTUJWLlvdbTfOv-QhrVnNNNuus3I67ahspdKrOkwVd7A0krOjnWgKgRQvKXLCNmGsLzOClNwuoiR7mBfVF5mV3xBClsX0sSBahtbAL1E-CZa1SIYol17dQm-fTBOz_JJvr80j0-IONaCQyGXRccF5CC154jEqjWXSY22L9GbTB4eqg-3Fej0Sy48BjRV2op3BtKY0lECqKp_vUVdPmOtio53DAFGe2ZysLkHsEgqIJvXCclKFUZ-dSqd0LOQWPOtJhiOpx9u2tIijnwNNC0b8Iwh-1sP2m-leVhAg866aCH2iyJrvB_x1PdX33a7o8IEPjWcVib78gWDsA1f_9fUhk0CRfIdYksOfu-2-0WJe9XIECfiLG_PYf4L6r09vBASXcQtVAJOKLP7d1HJqTepV_Pk0v6jrOW8lcgACUtfO4ER6r7WKiG0O79hnr1haSsVzGeJ9S2seemOxTGHiopS33zqDAsLHWzL8dcAVHfjSTAp0OoDoXW2fDMA>  
+section.
+
+
+   
+<https://www.google.com/appserve/mkt/p/AFnwnKVQzGL9TvlMqzf3uVt64c-q_j9uKXmYNgwQc6il1Sm-xtuE9FuEpfObU2e3A543ZeuM3Bg6jewWA-2simqi3-f4Pg_X2w6bIvf_4XCSrauztUhXdV2VdcIT8V6pNM02_Pl5V3xchxuATF3GP5LkTaK619XWPyiQl8xd798mgRBWQT_OWX5TP4wJMp8wr6cEJnO4dI-V4KqqcLZq_1xkvimhrWSxQ15bRgZJUOjlWmZnhhu5qHWaurJ6okaGGlugJPYWNaleUi1S_BYjr6bFgQUPY3xz6RwLm25fitL6Y-TociKjsYnqI_H18JSFvBH-mRkZbWC1V0GavcDl6jMS6C6wq-M1t1aC_UczVIiKs4LqbHeTNEFgymUzIoTAukWxuAfoQwmKux3Uj55LFsh9BQJKmVxOZtDX1r1G-ATlIw_HO41j31DnOQI8RgXLgGNzqy9Y0P3rE8cEe1hDO2QEocH4IrHTXV1EJ9OkSq0dSqnev-y2Z2LEIopBZ00Junjt6x6ACR9TQXYwyHtgfPtk3-PtHKEvYBXjfqN1NAQvcVKtfKDzVwqyDkRUcoO_3l69oevUwYrOXLcYUV45qOIxS99YQIwkasvXaSLqKKGoaZhpjZNnb4euO57qFL77MnWv1_PM-IH7tG-EuTJxRexuU9v2pw7TmPpDo2iNVaNyLDJdMfvjX3h7GSnwYnR389jLCK4>
+
+Google Play Protect  
+<https://www.google.com/appserve/mkt/p/AFnwnKXMNw3Kja7pYMSltqmK2eU0iH1-EBLJ27ebpT8--mT7nQUUbqhDqOHoxr7tp0KG1IidV8_P4qDK4cw8gRzroQ7SlER1bpollw3W6mPqbzd-K--MPnbo5u1wZfYTySJkzRMfOkpgDnO7nG0deMsvT3MfE7Ox2GNcsk7uVlB5tVAH4v8JOz3aJcex2GeqIa2NyYD1vNR8cnVtWHpIvf1VXizug-O1_heiXfEpyIU4Xy_Y18EmiZGQuH14RXrAUBIrfQpO0N1RnCwI2ZN2OW6aUbb2n44UgnvpucavcxJfuX00ZqWQ277_TNzC864GUfATMdQ0cSXPHzTrJ_FThJfYAHMFGiipC9RWRQZ5b4XoLZcZRDej7Vmz9zQCqXK_NX_j2h0ipqq-4dh3mx_fP5ZV1h-Zh9Y0wHdBzjjUS5Q92lmtmQvj5_Lf33Nv-hBPnBdB5ceeQLPd7TCaIoMa0vHzQl0yQ_veyRci3Lt7ixXxFwoTwxLQL8RluSn3DX6yYGTZAc4ZSaEdVBABcSFicOmHwKQo7MGmLgCHkHcFNbY1O83-FlcV9jhKruRYsJ5qbqX9L-C9t9gxeh-l_k-5OsC-BSnUYh95m3o15sZzPXW3ZVtApNct7f6XdesYuQQCG46QaEhGa1KlL603CLW0uE6XZmaB--gKIGXX7WTZQLVSHejpFH4hn_zulS3AUmb5JQ>  
+has you covered.
+
+   
+<https://www.google.com/appserve/mkt/p/AFnwnKVxoWDjupoAu5YmOQG7qwwfs3Bo3ov6rVGYP9VudGx3rldL8YRUn48uKxgn42sKv1BdeD1pmL-SWpfcmNLxB0GC-KOQs2EoCXgFt1W1nvgqzLbtI9VmXFIr7vuA1zPDKhMi6fyxdNc-Srmezdbp1KNr-nGMTM_aowwSlzeLFFo7im56ObaXdsez9UwCx85fRivZa6XwiAGh5ewKnFeQYzXLcdKF3Len0ILOyW3XtjumNbRmPc98AfMLNHjeouVEt_t99rf-ZbohhR2mw_Hd3nwZZFn2QaziHzG9hFFnSzZ_ofi-3kx4DlmD6pMmfnKyZmKNXPbJeec9fittF16eovEBP2H6qyiLb7wUmYJCwnq7D6oY3AuJyR5E2vNx0mBftaDWgUBCAFnIh9Br2h9aks_QL93W11iqtuHVQtZ8lDmsgUQEo60bYJ5rfFmnWLphr9Pq7HD-_zLCMKZ4ZBC3SaUOv9LGDLa5we0RaXulH9C_WnUq1LfsHthJIU53DeLLDAPVfc71GXSQVW5SE0LPDUeHgXb6PGEbIK56XJ0Jwzg-f9E4yog11jjf8WSII9BA42BTbL2h68EPmlTMrTUkMth_XeDrMTaCLksfHGiWYi77K5NJwDmNNbAd9GkiE9r5gXOWHXs7utm5l-di7pjoks6taKJK_nJIaGtBtmJjtRSq_UJlAuZA4OqO9pKXqS_xHj2756CX>
+
+Questions? We’re here to help.  
+<https://www.google.com/appserve/mkt/p/AFnwnKUfE_2APQm4ZPu8-aUBHn7VKuYEkGWrtAu0PtmT6CcGduy5C0RZEcry4SvX8m3Wp0OS6siWoO9SY0xRqbyrdD5LreQwUk8qZrsuFuekWrYm4txE-QdeqHxiazArnygk3GBscJ4ZS775MXU_Ont37pqZ6YjxQz_GbWio9IgwXClfkYgdPZ-2Oyo9OkW9_FiPAYzsykQnT7HqgwViGzBA1y7v7uFyR1nKTWKlYDjzWml3f8XCO57Lo1h3VX0Lx7kTKHyJOQrEi8cERlFy9dLmtbxQMAtnIAgL0IEpmKX8JNg7vYCJkL7-rECXGqAEiffkR_5KgzJ3HxBdEfakDJBWOxCLQmJQEwfq0l7QpIJ5fivPK7_lu7mpEqYi6aD-oJRs4mqUIzBiQAlfsKWAZ2921-ppXXUZWtnmEhxhIneM70mSWtsle0D4MwFpHmcwvfW5v5VU92no1NDMP1Z3DKzxZNHdIiA9zHdoGWv2vTpHlDh6toiuHsFKtEBGPvAW5wNH0Bgn5TbPfn37JYmQB73SHO_XEs581EFtFRRTUnLZD-DDo0y99i7FO3OHgWOdJfea2ke0pw2DHhQqEeTx0hB_nbjRECYsnxevMf-OyqZWbh1QZuOXyN6yPZPR0iq-RhjwRPPYdHev9gogh25CYQfXjBl7b8e_C82r-7zZxXa4_eJr7Px0HA_WwWYqrRCMtWetvrQ>
+
+   
+<https://www.google.com/appserve/mkt/p/AFnwnKUBAMXapQ0d9qOc85KVwJ5ljAFJs-kj7lf1n-KDD1pzzWul19ZpAcGBS2OHPl0MM_nrxsn2Je-V0NTvuZEBn4T6r04Sqz_zBXsjnUYd3imlvuveVXX6gcxTRtXOcylKCg2IfozzxssbTy45GclEAWEwat3cnba32rGrTvisfhyhUKbTcPk_xkxMzzRXHq9TyqtxvL-4p3YBkukNJtg-vJfPzxVdiOJzcRkrPfdXjLNwopznUIJOJv_ezjdronPFmIyyuUc3wxeByjlVlOG5g1Zo9f-mdCvIY-3g-ZrOR-FifR4dWsY-THkbqZTWMQx8FP9Qlui3hVXzvlz7VA3snHp-kE2nU4NoAx81bO76TjMFOuwaCAIGZYEMesPpyF3MbQ8T-01B6eMocf8tkzqJTWsrPhxRWedC1BUK7TQZMd9OBwdRevOZ54VsVrqK_L_3oFmjV13lzMudqIqMI8GTkP2lV2aiTYR4c6XdPsCv14DzhMIchICY4eJ_M2xF1D_aYoX7_TMSqzLIOnaJcXDNKtYoFluzxRIx9Dn2Hhmd1Y7jVCQqnB8zXwrXrqq3vRXQi_ToekNNAQcapIe0oxgfErcU-bsGIcR4Z89rOw4rBo-o5sw41w_n_OS19FxicTfXCrCGbCcflVOADp14MtUrsOfMlY38PWjAEU7fUF1wj9dS5GE6LCC9L3GOagEQJ6OlQo6LTk8-zEA-cZAp6_v3by2jJ3E06j50IZjH9qhqy4U>
+
+Add Google Play credit with a gift card.  
+<https://www.google.com/appserve/mkt/p/AFnwnKU7SxE8ePMc5JqO3MWfAvk-qhL_aXsxNNJy_o9_EzP7Cf2mhPA0k1bzQJdEv18KEf0dWYDr6Cz9x-BbZEumYTE91ZpmcvPR5BgzfSIhFRNHfdUp83JMZi92SJVKQD27s6bQf6I9fKoIKD6iOQKCyp_eTFmGhsVzBnqTRXD63ndikBAB7fuumuefBFOEy2erlKq817YzUB19_DGV8WjDYx0Ma85LSEiwVv8YyOXp0YdkmHnJrR3cPlI8im00lKLiLTH0D8SZmwd_jIXty43wIO9h_nXLNruXCMZ4YiTkBvnt7HGKAiD0Wc6XTtpsFfKD6qG0aLxDNRasAjE5DhJJPYUEK3gDXWrfAIuwOZUHD7nNbjeWiEi4oBMUl-JRLC7J3XuMhEjdV9BPUN3zKmKrNmk1W9EXu1IBL4AgXHIVvaCFSp6n2XPZjG1H8CXttHxuFNsDwTebPCfh6mhqd4x0J5gqTby7cZ-nzOlLvcGklq0wOncuaCT1nB71IgxIAbQTgQewnucBLA9scRp9trqKVeY0CEeYBB0hsNNVWa0D0OXM79M71DR7HBh66lqtd7M2Up4KXjqf-bR7PTftvwNABVoDuwtCTkCaEdYtiLqs7_NoJx6j__kvTT3Y0oggwJ1S1OPMxwAjJA5uXtkuwtVldwAcqjlE8OXJ0g1mjXffCUBp-HcApdwdDUQkCcZ6Np7f5GeRS2ychufjUfpD05b84I_vw5IquW3O2Qspcg>
+
+
+
+
+Was this email helpful?
+
+<https://www.google.com/appserve/mkt/p/AFnwnKXTBR0V2VPN2kXjWjDTSKgRGraYAM7ATR0T786OMzRf5sLvSkcgEP39y-nkqKmSQJzgxkB64LaKuQHXsQ_b16_1kGI0FEJF93ntriq6_Ofytlm7jmW1O2K8gvOCtZ4hV_mmFEqoUkVKEwa6e0wx7g38QqM6ELwFEjZ42POSnAzLVfULvcPSt-UwnKZIsvNUeQNZPZ5tZn0w02r4iHsskRQkrD87flsEr5OZrHz3hssW81J4nr330wVKgejb7bU9Cw4FneinBtFZMF5i2cAYXnqFGgZRn88zPEE9cTdDXb1byJeK7nmGtmDmS_UrXB-N7_c3FI8TW1QZCnrIzhwYTRr2fi-3eRe6fRjN8wNPURCDfAp_pq7MSza2tS9qOEghCpEs3eJCq0WfTCxGmhgydZ928LyRZPUwwNr7SR-yqwo-YDHZraDj0LJ1Mtwhz_p8x3gY9R60J16q3Fb52mMjNCoMCsmU1U0HEpUoebmPUo1-L6-fjb9pJ5F6iUclyzmuyHaCdAzy1dTEwHQPaCIV_GPfZRF0Fhu4zGJSqGW1lNB18vzKsL74-Ai7h_3K2BvxRuRsCt0QWb2ccxIi2akORKCYdJ0oTLa5AuLGJm-lMlL5FAXwe5bNMHT6ifQ-bNu_yufWlTqH7O_lCQzUlMz3>
+
+   
+<https://www.google.com/appserve/mkt/p/AFnwnKWnsl13Gp_1dPvMBP4HybUDK9yJ1sgjA5_RIH0-n7FWejlu0rjtEJQbMr5yQtKrsNhOwe-ofQqVZ7nd7rcPlpMV5Ver8yxY4oreSwdTO2y5IS9zEKp7YCV-4ixpcc_doxO09sC7sfwn9G96duHZcNnf2N7zFn43yifik_tyKReDMuY7x8dLgfKbwLsr9A3K3iAVTZyzj85f7RjwbzuiHWCOuD42uJWI4h0lYpBFOJxW-9Vl0dWog5skPcamEyYivyjC8Lbi8t2VvebMv5RVmLyYbSy5JmmbQ8Z6kaI64fCyBO8ZQQFwOp2mI_ULIb2YOlYbqrTku-VKYsdCSHXvTPlVZHW5JwJZO9enQrBvIOPI0C3k2Bh1qhHVXV7afqBw-tySEn_U49dMYtl5ldZBTintNjeD_-rZOHFznjXjvkJaOyfOcBHs-4vmsLMoswv1WK8G_u0cGERVy2ghfF9bAJiVTamEWdJEjtTmiXmFdzNgZfRxPqRl1YCtqdvVQhovBiktqDZ5mqBfSHG3IDFc8Pkn2VPJ1lpobHGIalnedV5Pr-pID2V2393iuFgx5fjaUpXOB6cArCZdyJPBWIz8w1p82HYR67oGvzHmdX-GswJ39dfLOpjaoIQI-ACRzULEmK02TMSFlGNL_edCWVt7_Y8>
+
+(c) 2019 Google LLC,
+1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+This message was sent to n.praveen2002veen@gmail.com because you asked us  
+to keep you up to date with the latest news and offers from Google Play. If  
+you do not wish to receive these emails, please unsubscribe here  
+<https://www.google.com/appserve/mkt/optout/AFnwnKXmIDy7SiPhtEgYPXQlJ6f2TXVdl1kZeP89SKBvpPpQwq_VBmzvDLMxJXXHtYVnvU3LW4M?hl=en>.  
+You can also change your email preferences on Google Play by logging in at  
+https://play.google.com/settings <https://play.google.com/settings>. Please  
+do not reply to this email, as we are unable to respond from this email  
+address. If you need support, please visit the Google Play Help Center  
+<https://support.google.com/googleplay>.
+**********
+"Kotak 811" <newsletter@mail911.in>
+Earn 6% Interest on your Savings Account
+http://zvuo.mail911.in/campaigns/be4936oko4728/track-url/no916oqz8a027/ed7e1115ddf47c1144013ed6a7fee862ca04adff
+**********
+"IIFL Securities" <newsletter@womens-health-express.com>
+Open FREE Demat and Trading Account
+http://gvba.womens-health-express.com/campaigns/dn0980y1jhf4b/track-url/no916oqz8a027/50ceb6df0e2f86c582476870f3b9a86b48a53d4b
+**********
+"NIIT" <newsletter@smtp-server-mail.in>
+Become a Senior Officer in a Bank in 60 Days*
+http://bmkx.smtp-server-mail.in/campaigns/zz481ne6xqc97/track-url/no916oqz8a027/9d40e3e0e91987a07632f7d1628862c653022caf
+**********
+"Insure your Health" <newsletter@mens-health-express.com>
+Secure your family's health and savings
+http://mqif.mens-health-express.com/campaigns/ad657emfcnf1b/track-url/no916oqz8a027/bbc4ff97c84b6919e476ad7ee4b7441820efb41f
+**********
+"Jiaram" <newsletter@mens-health-express.com>
+25-year-old, who has become unrecognizable because of cancer, needs your help
+http://mqif.mens-health-express.com/campaigns/pl9454eezbc8d/track-url/no916oqz8a027/501ae68b6dc675d124faf4ddc92dfa5c7c407213
+**********
+Testingemail 1 <testingemail1000000@gmail.com>
+001
+DAVID PETRAEUS WILL TESTIFY ON BENGHAZI
+**********
+rnd1024.64@gmail.com
+Spam-Spoiler
+Suspicious mail has deleted *** DAVID PETRAEUS WILL TESTIFY ON BENGHAZI
+ *** 
+**********
+Testingemail 1 <testingemail1000000@gmail.com>
+5000rs
+An arrested click-fraudster who claimed to=2Normal==2Normalmake $3Normal
+**********
+rnd1024.64@gmail.com
+Spam-Spoiler
+Fraudulent mail has deleted *** An arrested click-fraudster who claimed to=2Normal==2Normalmake $3Normal
+ *** 
+**********
+Testingemail 1 <testingemail1000000@gmail.com>
+cm son
+I AM THE SON OF THE LATE PRESIDENT
+**********
+rnd1024.64@gmail.com
+Spam-Spoiler
+Fraudulent mail has deleted *** I AM THE SON OF THE LATE PRESIDENT
+ *** 
+**********
+Testingemail 1 <testingemail1000000@gmail.com>
+ram is a good boy
+I AM THE SON OF THE LATE PRESIDENT
+**********
+rnd1024.64@gmail.com
+Spam-Spoiler
+Fraudulent mail has deleted *** I AM THE SON OF THE LATE PRESIDENT
+ *** 
+**********
+Praveen N <n.praveen2002veen@gmail.com>
+5000 is offer
+bunch of dirty snake faggots
+**********
+rnd1024.64@gmail.com
+Spam-Spoiler
+Suspicious mail has deleted *** bunch of dirty snake faggots
+ *** 
+**********
+Praveen N <n.praveen2002veen@gmail.com>
+offer for 200000000 rs
+hello praveen
+**********
